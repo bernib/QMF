@@ -6,7 +6,10 @@
 </div>
 <?php include("inc_header.php"); ?>
 <div class="Wrapper">
-	<div class="TopBanner"><img src="images/banners/sale-960x37.png" width="960" height="37" alt=""></div>
+	<div class="TopBanner">
+		<div class="Desktop"><img src="images/banners/sale-960x37.png" width="960" height="37" alt=""></div>
+		<div class="Mobile"><img src="images/banners/ad-300x50.png" width="300" height="50" alt=""></div>
+	</div>
 	
 	<div class="Noticia BreakingNews">
 		<figure><a href="#"><img src="images/pics/pic1-1170x400.jpg" width="1170" height="400" alt=""></a></figure>
@@ -72,6 +75,10 @@
 				
 				<div class="Ads">
 					<div class="Object"><img src="images/banners/add-300x250.png" width="300" height="250" alt=""></div>
+				</div>
+				
+				<div class="Estadisticas">
+					<img src="images/pics/estadisticas.png" width="300" height="375" alt="ESTADÍSTICAS">
 				</div>
 				
 				<div class="Noticia Large Secundaria">
@@ -179,11 +186,11 @@
 		</div>
 		
 		<aside class="ColSize3">
-			<div class="Estadisticas">
-				<img src="images/pics/estadisticas.png" width="300" height="375" alt="ESTADÍSTICAS">
-			</div>
 			<div class="Ads">
 				<a href="#"><img src="images/banners/add-300x250.png" width="300" height="250" alt="CABLEVISION HD + FIBERTEL 6 MEGAS Wi-Fi $280"></a>
+			</div>
+			<div class="Estadisticas">
+				<img src="images/pics/estadisticas.png" width="300" height="375" alt="ESTADÍSTICAS">
 			</div>
 			<section class="LoMasVisto">
 				<h3>LO MÁS VISTO</h3>

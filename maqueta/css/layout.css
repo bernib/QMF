@@ -42,6 +42,7 @@ HEADER { background: #ff420a; min-height: 53px; border-bottom: 1px solid #878f97
 .MenuSeccion LI A { display: block; color: #2c3e4f; padding: 3px 19px; }
 .MenuSeccion LI A .fa { visibility: hidden;}
 .MenuSeccion LI A:hover { color: #e4ebf1; background: #2c3e4f;}
+.MenuSeccion .Opciones,
 .MenuSeccion .Lnks,
 .MenuSeccion LI.Last { display: none}
 .MenuSeccion:hover UL { display: block;}
@@ -55,26 +56,27 @@ HEADER .Sponsor IMG { float: left;}
 .TopAccesos .Pipe { border-right: 1px solid #fff; padding-right: 19px;}
 .TopAccesos .Buscador { position: relative; margin-top: -3px; margin-bottom: -4px; margin-right: -10px;} 
 .TopAccesos .SearchInput { height: 18px; width: 55px; border: none; border-radius: 18px; padding: 9px 0px 9px 20px; float: left; background: transparent; font: 1.6em/18px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; }
-.TopAccesos .GoBtn { display: block; font-size: 2em; float: left; height: 36px; width: 36px; border: none; margin-left: -36px; position: relative; color: #FFFFFF; background: none; }
+.TopAccesos .GoBtn { display: block; font-size: 2em; float: left; height: 36px; width: 36px; border: none; margin-left: -40px; position: relative; color: #FFFFFF; background: none; }
 .TopAccesos .Buscador:hover .SearchInput { background: #fff; width: 255px;}
 .TopAccesos .Buscador:hover .GoBtn I {color: #ff420a;}
 .TopAccesos .Icon SPAN {display: none}
 .TopAccesos .Icon I { display: block; height: 29px; font-size: 2.2em; line-height: 29px; color: #FFFFFF; margin-left: 19px; }
 .TopAccesos .Icon:hover I { color: #e4ebf1;}
 .Newsletter {position: absolute; right: -34px; top: 29px; width: 300px; background: url(../images/layout/menu-arrow.png) no-repeat 242px 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none; }
+.Newsletter .CloseThis { display: none;}
 .Newsletter FIELDSET { background: #e4ebf1; padding: 16px 12px; border-bottom: 1px solid #c4c4c5; }
 .Newsletter P { font: 1.4em/16px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; padding-bottom: 13px; }
 .Newsletter INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #2c3e4f; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 20px; }
 .Newsletter INPUT[type="submit"] { float: right; font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #ff420a; border: none; text-transform: uppercase; height: 35px; width: 122px; border-radius: 6px; }
 .Newsletter INPUT[type="submit"]:hover { background: #d33507}
 .ShowNewsletter:hover .Newsletter { display: block;}
-.Login { position: absolute; right: 0; top: 29px; width: 300px; background: url(../images/layout/menu-arrow.png) no-repeat right 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none; }
-.Login FIELDSET { background: #e4ebf1; padding: 16px 12px; border-bottom: 1px solid #c4c4c5; }
+.Login { position: absolute; right: 0; top: 29px; width: 316px; background: url(../images/layout/menu-arrow.png) no-repeat right 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none; }
+.Login FIELDSET { background: #e4ebf1; padding: 16px 20px; border-bottom: 1px solid #c4c4c5; }
 .Login .FBconnect { padding-bottom: 20px; text-align: center; border-bottom: 1px solid #fff; padding-top: 10px; margin-bottom: 18px;}
 .Login .FBconnect A { background: url(../images/layout/sprite.png) no-repeat -70px -98px; text-indent: -5000px; display: block; margin: 0px auto; height: 34px; width: 226px; }
 .Login H4 { color: #2c3e4f; text-align: center; font: 1.5em/17px 'ubuntumedium', Arial, Helvetica, sans-serif; margin-bottom: 18px; }
 .Login INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #2c3e4f; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 10px; }
-.Login .Opciones { float: left; padding-top: 8px; font: 1.2em/22px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; padding-bottom: 12px; }
+.Login .Opciones { float: left; padding-top: 8px; font: 1.3em/22px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; padding-bottom: 12px;}
 .Login .Opciones SPAN { text-decoration: underline; cursor: pointer;}
 .Login .Opciones:hover SPAN { text-decoration: none}
 .Login .Opciones A { color: #2c3e4f; text-decoration: underline}
@@ -82,9 +84,29 @@ HEADER .Sponsor IMG { float: left;}
 .Login INPUT[type="submit"] { float: right; font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #ff420a; border: none; text-transform: uppercase; height: 35px; width: 102px; margin-top: 4px; border-radius: 6px; }
 .Login INPUT[type="submit"]:hover { background: #d33507}
 .Login .Action { float: left; width: 100%; border-top: 1px solid #fff; text-align: center; padding-top: 14px;}
-.Login .Action A { font: 1.3em/15px 'ubunturegular', Arial, Helvetica, sans-serif; color: #ff420a; text-decoration: underline; }
+.Login .Action A { font: 1.5em/17px 'ubunturegular', Arial, Helvetica, sans-serif; color: #ff420a; text-decoration: underline; }
 .Login .Action A:hover { text-decoration: none;}
 .ShowLogin:hover .Login { display: block;}
+/**/
+.Login .Paso2 { display: none;}
+.Login .Paso2 .Opciones { width: 100%;}
+.Login .Paso2 .Opciones INPUT { float: left;}
+.Login .Paso2 .Opciones SPAN { text-decoration: none; cursor: default; display: block; width: 90%; float: left; margin-left: 4px;}
+.Login .Paso2 .Opciones:hover SPAN { text-decoration: none}
+.Login .Paso2 INPUT[type="submit"] { width: 134px; float: none; clear: both; margin-left: 70px; margin-bottom: 20px; }
+.Login .Paso2 .Action A { font: 1.7em/19px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; text-decoration: none; }
+.Login .Paso2 .Action STRONG { font-weight: normal; color: #ff420a; text-decoration: underline;}
+.Login .Paso2 .Action A:hover { text-decoration: none;}
+.Login .Paso2 .Action A:hover STRONG { text-decoration: none;}
+/**/
+.Login .Paso3 { display: none;}
+.Login .Paso3 FIELDSET { padding-top: 25px; padding-bottom: 25px;}
+.Login .Paso3 H4 { font: 1.7em/24px 'ubuntubold', Arial, Helvetica, sans-serif; color: #ff420a; margin-bottom: 0; text-align: left; padding-left: 20px }
+.Login .Paso3 P {font: 1.7em/24px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; padding-left: 20px;}
+/**/
+.Login .Paso4 { display: none}
+.Login .Paso4 H4 { text-align: left; margin-bottom: 10px;}
+.Login .Paso4 .Texto { font-size: 1.3em; line-height: 18px; color: #2c3e4f; margin-bottom: 15px; }
 
 /**/
 NAV { background: url(../images/layout/nav-shadow.png) repeat-x left bottom; padding-bottom: 3px; width: 100%; }
@@ -113,6 +135,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 
 /*GRID*/
 .TopBanner { min-height: 37px; text-align: center}
+.TopBanner .Mobile { display: none}
 .Container { width: 100%; min-height: 500px; margin-top: 28px; position: relative; display: table;}
 .ColSize1 { width: 100%; display: table-cell; vertical-align: top; padding-right: 17px;}
 .ColSize2 { width: 317px; display: table-cell; vertical-align: top; padding-right: 37px; max-width: 317px;}
@@ -126,6 +149,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Noticia FIGURE { position: relative;}
 .Noticia FIGURE IMG { width: 100%; height: auto;}
 .Noticia H4 { display: inline-block; background: #abd854; color: #2c3e4f; text-transform: uppercase; font: 1.2em/14px 'ubuntubold', Arial, Helvetica, sans-serif; height: 14px; padding: 7px 12px 3px; }
+.Noticia H4:hover { background: #bee76f;}
 .Noticia H4 A { color: #2c3e4f;}
 .Noticia FIGURE + H4 {margin-top: -24px; position: relative; float: left; }
 .Noticia H3 { font-size: 2em; line-height: 24px; color: #3e4c59; margin-top: 10px;}
@@ -200,7 +224,8 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 /*ASIDE*/
 .ColSize3 .Ads { margin-bottom: 20px;}
 /**/
-.Estadisticas { margin-bottom: 20px;}
+.Estadisticas { margin-bottom: 20px; text-align: center;}
+.ColSize1 .Estadisticas { display: none}
 /**/
 .LoMasVisto { margin-bottom: 20px; border-bottom: 1px solid #e7eaec;}
 .LoMasVisto H3 { height: 20px; background: #2c3e4f; color: #fff; font: 1.8em/20px 'arvobold', Arial, Helvetica, sans-serif; padding: 10px 14px; margin-bottom: 12px; }

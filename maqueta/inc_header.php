@@ -54,6 +54,7 @@
 						<form>
 							<fieldset>
 								<p>Recibe nuestros artículos semanalmente</p>
+								<div class="Msg">Alguno de los campos es incorrecto:</div>
 								<input type="text" name="textfield4" id="textfield4" placeholder="E-mail">
 								<input type="submit" name="button3" id="button3" value="Suscribirme">
 							</fieldset>
@@ -71,6 +72,8 @@
 									</div>
 									<h4>O con tu usuario de Quiero+Fútbol:</h4>
 									<div class="Grupo">
+										<div class="Msg">Alguno de los campos es incorrecto:</div>
+										<!-- Poner en cada input la clase .Error -->
 										<p>
 											<input type="text" name="textfield2" id="textfield2" placeholder="Usuario">
 											<input type="text" name="textfield3" id="textfield3" placeholder="Contraseña">
@@ -93,6 +96,7 @@
 										<a href="#">Ingresa con Facebook</a>
 									</div>
 									<h4>O con tu usuario de Quiero+Fútbol:</h4>
+									<div class="Msg">Alguno de los campos es incorrecto:</div>
 									<p>
 										<input type="text" name="textfield22" id="textfield22" placeholder="E-mail">
 										<input type="text" name="textfield32" id="textfield32" placeholder="Contraseña">
@@ -131,6 +135,7 @@
 									<div class="Grupo">
 										<h4>Recuperar mi contraseña</h4>
 										<p class="Texto">Ingresa la dirección de correo electrónico con la que te conectaste. Te enviaremos un correo con las instrucciones.</p>
+										<div class="Msg">Alguno de los campos es incorrecto:</div>
 										<p>
 											<input type="text" name="textfield22" id="textfield22" placeholder="E-mail">
 										</p>

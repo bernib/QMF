@@ -69,9 +69,11 @@ HEADER .Sponsor IMG { float: left;}
 .Newsletter INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #2c3e4f; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 20px; }
 .Newsletter INPUT[type="submit"] { float: right; font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #ff420a; border: none; text-transform: uppercase; height: 35px; width: 122px; border-radius: 6px; }
 .Newsletter INPUT[type="submit"]:hover { background: #d33507}
+.Newsletter .Msg { background: #ff861a; font: 1.3em/15px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #fff; padding: 6px 10px; margin-bottom: 10px; display: none; }
+.Newsletter .Error { color: #ff7d0a;}
 .ShowNewsletter:hover .Newsletter { display: block;}
 .Login { position: absolute; right: 0; top: 29px; width: 316px; background: url(../images/layout/menu-arrow.png) no-repeat right 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none;}
-.Login FIELDSET { background: #e4ebf1; padding: 16px 20px; border-bottom: 1px solid #c4c4c5; height: 388px;}
+.Login FIELDSET { background: #e4ebf1; padding: 16px 20px; border-bottom: 1px solid #c4c4c5; min-height: 388px;}
 .Login .FBconnect { padding-bottom: 20px; text-align: center; border-bottom: 1px solid #fff; padding-top: 10px; margin-bottom: 18px;}
 .Login .FBconnect A { background: url(../images/layout/sprite.png) no-repeat -70px -98px; text-indent: -5000px; display: block; margin: 0px auto; height: 34px; width: 226px; }
 .Login H4 { color: #2c3e4f; text-align: center; font: 1.5em/17px 'ubuntumedium', Arial, Helvetica, sans-serif; margin-bottom: 18px; }
@@ -86,6 +88,8 @@ HEADER .Sponsor IMG { float: left;}
 .Login .Action { float: left; width: 100%; border-top: 1px solid #fff; text-align: center; padding-top: 14px;}
 .Login .Action A { font: 1.5em/17px 'ubunturegular', Arial, Helvetica, sans-serif; color: #ff420a; text-decoration: underline; }
 .Login .Action A:hover { text-decoration: none;}
+.Login .Msg { background: #ff861a; font: 1.3em/15px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #fff; padding: 6px 10px; margin-bottom: 10px; display: none; }
+.Login .Error { color: #ff7d0a;}
 .ShowLogin:hover .Login { display: block;}
 /**/
 .Login .Paso2 { display: none;}

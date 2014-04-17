@@ -8,7 +8,7 @@
 <div class="Wrapper">
 	<div class="TopBanner">
 		<div class="Desktop"><img src="images/banners/sale-960x37.png" width="960" height="37" alt=""></div>
-		<div class="Mobile"><img src="images/banners/ad-300x50.png" width="300" height="50" alt=""></div>
+		<div class="Mobile"><img src="images/banners/ad-300x50.png" width="320" height="50" alt=""></div>
 	</div>
 	
 	<div class="Noticia BreakingNews">

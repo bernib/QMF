@@ -9,7 +9,7 @@ SECTION,
 	.Cobertura {width: 95.8%; padding-left: 1%; padding-right: 1%;}
 	.Cobertura LI:first-child { margin-right: 1%; width: 61%}
 	.Cobertura LI { width: 38%;}
-	.ColSize2 { padding-right: 33px;}
+	.ColSize2 { padding-right: 19px;}
 	.Noticia.Destacada { width: 97.8%; }
 }
 @media screen and (max-width: 1150px) {
@@ -33,11 +33,10 @@ SECTION,
 	.TopAccesos .Buscador .SearchInput,
 	.TopAccesos .Buscador:hover .SearchInput {width: 160px; background: #fff;}
 	.TopAccesos .Buscador .GoBtn I {color: #ff420a;}
-	.ColSize2 { width: 310px; padding-right: 27px;}
-	.GrupoDestacado { padding-left: 4.5161%; padding-right: 4.1935%;}
+	.ColSize2 { width: 310px; padding-right: 15px;}
+	.GrupoDestacado { padding-left: 14px; padding-right: 13px;}
 	.ColSize1 { padding-right: 8px;}
-	.ColSize2 .InnerCol { padding-left: 2.2580%}
-	.Cobertura {width: 95%;}
+	.ColSize2 .InnerCol { padding-left: 7px}
 }
 @media screen and (max-width: 1010px) {
 	.TopAccesos .Buscador .SearchInput,
@@ -82,7 +81,7 @@ SECTION,
 	.ColSize1 { width: auto;}
 	.ColSize3 { display: none;}
 	.ColSize2 { padding-right: 0px;}
-	.GrupoDestacado {padding-left: 4.5161%; padding-right: 4.1935%;}
+	/*.GrupoDestacado {padding-left: 4.5161%; padding-right: 4.1935%;}*/
 	.Cobertura {width: 98%;}
 	.Noticia.BreakingNews { margin-top: 22px; margin-bottom: 22px;}
 	.Container { margin-top: 22px;}
@@ -150,7 +149,7 @@ SECTION,
 	.Login H4 + P { width: 275px; margin: 0 auto;}
 	.Login .Grupo { width: 275px; margin: 0 auto;}
 	/**/
-	.TopBanner { text-align: center; background: #f1f3f5; display: block; margin-left: -2%; margin-right: -2%;}
+	.TopBanner { text-align: center; background: #f1f3f5; display: block; margin-left: -2%; margin-right: -2%; width: 104%; overflow: hidden;}
 	.TopBanner .Desktop { display: none}
 	.TopBanner .Mobile { display: block}
 	.Noticia.BreakingNews { margin-left: -2%; margin-right: 2%; width: 104%;}

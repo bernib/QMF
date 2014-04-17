@@ -114,6 +114,7 @@
 						<div class="Paso3">
 							<form>
 								<fieldset>
+									<span class="CloseThis"><i class="fa fa-times"></i></span>
 									<div class="Grupo">
 										<h4>Bienvenido!	</h4>
 										<p> Ya estás registrado a<br>
@@ -126,6 +127,7 @@
 						<div class="Paso4">
 							<form>
 								<fieldset>
+									<span class="CloseThis"><i class="fa fa-times"></i></span>
 									<div class="Grupo">
 										<h4>Recuperar mi contraseña</h4>
 										<p class="Texto">Ingresa la dirección de correo electrónico con la que te conectaste. Te enviaremos un correo con las instrucciones.</p>

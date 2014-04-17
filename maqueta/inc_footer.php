@@ -15,7 +15,7 @@
 					<li><a href="#" target="_blank">El Mensajero</a></li>
 					<li><a href="#" target="_blank">La Raza</a></li>
 					<li><a href="#" target="_blank">La Prensa</a></li>
-					<li><a href="#" target="_blank">Rumbo</a></li>
+					<li><a href="#" target="_blank">Rumbo</a> <i class="fa fa-caret-down"></i></li>
 				</ul>
 			</div>
 			<div class="BotFot">

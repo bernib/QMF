@@ -70,8 +70,8 @@ HEADER .Sponsor IMG { float: left;}
 .Newsletter INPUT[type="submit"] { float: right; font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #ff420a; border: none; text-transform: uppercase; height: 35px; width: 122px; border-radius: 6px; }
 .Newsletter INPUT[type="submit"]:hover { background: #d33507}
 .ShowNewsletter:hover .Newsletter { display: block;}
-.Login { position: absolute; right: 0; top: 29px; width: 316px; background: url(../images/layout/menu-arrow.png) no-repeat right 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none; }
-.Login FIELDSET { background: #e4ebf1; padding: 16px 20px; border-bottom: 1px solid #c4c4c5; }
+.Login { position: absolute; right: 0; top: 29px; width: 316px; background: url(../images/layout/menu-arrow.png) no-repeat right 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none;}
+.Login FIELDSET { background: #e4ebf1; padding: 16px 20px; border-bottom: 1px solid #c4c4c5; height: 388px;}
 .Login .FBconnect { padding-bottom: 20px; text-align: center; border-bottom: 1px solid #fff; padding-top: 10px; margin-bottom: 18px;}
 .Login .FBconnect A { background: url(../images/layout/sprite.png) no-repeat -70px -98px; text-indent: -5000px; display: block; margin: 0px auto; height: 34px; width: 226px; }
 .Login H4 { color: #2c3e4f; text-align: center; font: 1.5em/17px 'ubuntumedium', Arial, Helvetica, sans-serif; margin-bottom: 18px; }
@@ -107,6 +107,7 @@ HEADER .Sponsor IMG { float: left;}
 .Login .Paso4 { display: none}
 .Login .Paso4 H4 { text-align: left; margin-bottom: 10px;}
 .Login .Paso4 .Texto { font-size: 1.3em; line-height: 18px; color: #2c3e4f; margin-bottom: 15px; }
+.Login .CloseThis { display: block; width: 26px; height: 26px; position: absolute; top: 15px; right: 15px; font-size: 2.4em; line-height: 26px; color: #808b95; text-align: center; cursor: pointer; }
 
 /**/
 NAV { background: url(../images/layout/nav-shadow.png) repeat-x left bottom; padding-bottom: 3px; width: 100%; }
@@ -119,7 +120,7 @@ NAV LI A:hover { color: #b7d0e6;}
 /**/
 FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; width: 100%; float: left; margin-top: 40px;}
 .MainBotBanner { min-height: 105px; margin-top: 15px; text-align: center; border-bottom: 1px solid #616e7a;}
-.Foot { overflow: hidden; min-height: 97px;}
+.Foot { min-height: 97px;}
 .Foot .Copy { float: left; margin-top: 15px; margin-left: 13px;}
 .Foot .Copy H4 { background: url(../images/layout/sprite.png) no-repeat 0px -40px; text-indent: -5000px; height: 38px; width: 188px; margin-bottom: 10px; }
 .Foot .OtrosSitios { float: right; margin-right: 6px; margin-top: 28px; position: relative;}
@@ -128,6 +129,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Foot .OtrosSitios UL { float: right; margin-bottom: 18px;}
 .Foot .OtrosSitios LI { float: left; margin-left: 19px; font: 1.4em/16px 'ubuntubold', Arial, Helvetica, sans-serif; color: #FFF; text-transform: uppercase; }
 .Foot .OtrosSitios LI A { color: #fff;}
+.Foot .OtrosSitios LI I { visibility: hidden;}
 .BotFot { width: 100%; float: left}
 .BotFot P {font: 1.3em/15px 'ubunturegular', Arial, Helvetica, sans-serif; color: #b0b3b8; float: left; margin-left: 13px; margin-right: 6px;}
 .BotFot P A {color: #b0b3b8; text-decoration: underline;}

@@ -24,6 +24,11 @@ $(function(){
 		$(".Newsletter").hide();	
 	});
 	
+	$(".Login .CloseThis").click(function(){
+		$(this).parent().parent().parent().hide();
+		$(".ShowLogin .Paso1").show();
+	});
+	
 	$(".ShowOlvide").click(function(e){
 		e.preventDefault();
 		$(".ShowLogin .Paso1").hide();
@@ -46,6 +51,14 @@ $(function(){
 		e.preventDefault();
 		$(".ShowLogin .Paso2").hide();
 		$(".ShowLogin .Paso3").show();
+	});
+	
+	$(".Foot .OtrosSitios H4").click(function(){
+		$(".Foot .OtrosSitios UL").slideDown("fast");
+	});
+	
+	$(".Foot .OtrosSitios UL I").click(function(){
+		$(".Foot .OtrosSitios UL").hide();
 	});
 	
 	/*MENU MOBILE*/

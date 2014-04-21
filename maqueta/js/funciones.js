@@ -72,7 +72,7 @@ $(function(){
 	
 	/*ESCUDOS TEMAS*/
 	$('#Escudos').carouFredSel({
-        responsive: false,
+        responsive: true,
 		width: "variable",
 		items: 22,
 		scroll: {

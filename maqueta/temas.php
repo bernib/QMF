@@ -15,9 +15,9 @@
 <div class="Escudos">
 	<div class="Wrapper">
 		<ul id="Escudos">
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/america.png" width="35" height="35" alt=""></li>
+			<li><img src="images/escudos/mx/atlante.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/chivas.png" width="35" height="38" alt=""></li>
 			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
 			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
 			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>

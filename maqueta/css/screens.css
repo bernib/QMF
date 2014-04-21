@@ -60,8 +60,8 @@ SECTION,
 	.firefox .MenuSeccion LI A.Icon .fa { top: 0px;}
 	.MenuSeccion LI.Last { padding: 16px 20px 8px; background: #ebf2f7; display: block;}
 	.MenuSeccion LI.Last A:hover.Icon { background: none; color: #2C3E4F}
-	H1 {margin-top: 14px;}
-	H1 A {width: 200px; height: 29px; background-position: -190px -40px;}
+	HEADER H1 {margin-top: 14px;}
+	HEADER H1 A {width: 200px; height: 29px; background-position: -190px -40px;}
 	HEADER .Sponsor { margin-top: 8px;}
 	HEADER .Sponsor FIGCAPTION { float: none; margin-right: 0;}
 	.TopAccesos LI:nth-child(2),
@@ -136,8 +136,8 @@ SECTION,
 @media screen and (max-width: 650px) {
 	.TopAccesos LI:first-child { display: none}
 	.MenuSeccion { margin-right: 28px; margin-top: 14px;}
-	H1 { margin-top: 12px;}
-	H1 A { background-position: -280px 0; height: 31px; width: 213px;}
+	HEADER H1 { margin-top: 12px;}
+	HEADER H1 A { background-position: -280px 0; height: 31px; width: 213px;}
 	HEADER .Sponsor IMG { width: 80%; height: auto;}
 	.MenuSeccion { position: static}
 	.MenuSeccion UL { top: 40px; width: 100%; background: url(../images/layout/menu-arrow-mobile.png) no-repeat 2.5% 4px; }

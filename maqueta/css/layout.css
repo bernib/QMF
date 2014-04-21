@@ -46,8 +46,8 @@ HEADER { background: #ff420a; min-height: 53px; border-bottom: 1px solid #878f97
 .MenuSeccion .Lnks,
 .MenuSeccion LI.Last { display: none}
 .MenuSeccion:hover UL { display: block;}
-H1 { float: left; margin-top: 8px;}
-H1 A { display: block; width: 271px; height: 39px; background: url(../images/layout/sprite.png) no-repeat 0px 0px; text-indent: -5000px; }
+HEADER H1 { float: left; margin-top: 8px;}
+HEADER H1 A { display: block; width: 271px; height: 39px; background: url(../images/layout/sprite.png) no-repeat 0px 0px; text-indent: -5000px; }
 HEADER .Sponsor { float: left; margin-left: 21px; margin-top: 18px;}
 HEADER .Sponsor FIGCAPTION { float: left; font: 1.2em/18px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #d8d5d5; margin-right: 8px; }
 HEADER .Sponsor IMG { float: left;}

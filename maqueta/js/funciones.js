@@ -70,6 +70,28 @@ $(function(){
 	}
 	/**/
 	
+	/*ESCUDOS TEMAS*/
+	$('#Escudos').carouFredSel({
+        responsive: false,
+		width: "variable",
+		items: 22,
+		scroll: {
+            items: 1,
+            easing: "swing",
+            duration: 1000,                         
+            pauseOnHover: true
+        },
+		prev: {
+			button: ".Prev",
+			items: 1	
+		},
+		next: {
+			button: ".Next",
+			items: 1	
+		},
+		align: "center" 
+    });
+	
 	/*ANCHOR*/
 	$("a.anchorLink").anchorAnimate();
 	

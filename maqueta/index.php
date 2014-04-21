@@ -10,7 +10,9 @@
 		<div class="Desktop"><img src="images/banners/sale-960x37.png" width="960" height="37" alt=""></div>
 		<div class="Mobile"><img src="images/banners/ad-300x50.png" width="320" height="50" alt=""></div>
 	</div>
-	
+</div>
+<div class="Wrapper">
+
 	<div class="Noticia BreakingNews">
 		<figure><a href="#"><img src="images/pics/pic1-1170x400.jpg" width="1170" height="400" alt=""></a></figure>
 		<h4><a href="#">MUNDIAL 2014</a></h4>

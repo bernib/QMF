@@ -30,4 +30,5 @@
 <script type="text/javascript" src="js/cssrefresh.js"></script>
 <!-- End -->
 <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
 <script type="text/javascript" src="js/funciones.js"></script>

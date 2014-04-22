@@ -260,5 +260,67 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Recomendados LI P A {color: #2c3e4f;}
 .Recomendados LI P A:hover { text-decoration: underline;}
 
-
+/*ARTICULO*/
+.Articulo { float: left; width: 91.9632%; padding-right: 3.7887%; border-right: 1px solid #e4e7e9;}
+.Articulo .Head { padding-bottom: 26px; color: #3e4c59;}
+.Articulo .Head H1 { font-size: 4em; line-height: 43px; margin-bottom: 8px; }
+.Articulo .Head H2 { font-size: 1.6em; line-height: 23px; }
+.Articulo .Row {overflow: hidden; padding-bottom: 22px;}
+.Articulo .Autor { float: left; color: #3e4c59;}
+.Articulo .Autor IMG { float: left}
+.Articulo .Autor FIGCAPTION { float: left; padding-left: 12px;}
+.Articulo .Autor A { color: #3e4c59; font-size: 1.4em; line-height: 16px; text-decoration: underline; }
+.Articulo .Autor A:hover { text-decoration: none;}
+.Articulo .Autor SMALL { display: inline-block; padding-top: 5px; font: 1.1em/18px "open_sansregular", Arial, Helvetica, sans-serif; }
+.Articulo .Autor SPAN { margin-left: 6px;}
+.Articulo .SocialBar { float: right; margin-bottom: 0;}
+.Articulo .SocialBar LI { float: left; font: 1.3em/15px "open_sanssemibold", Arial, Helvetica, sans-serif; color: #FFFFFF; margin-left: 5px; margin-bottom: 0; padding-left: 0; background: none; }
+.Articulo .SocialBar A { display: block; height: 44px; padding-left: 15px; padding-right: 15px; color: #fff;}
+.Articulo .SocialBar SPAN { position: relative; top: -5px; padding-left: 5px;}
+.Articulo .SocialBar .FB { background: #2c609c;}
+.Articulo .SocialBar .FB:hover { background: #2c6eb9;}
+.Articulo .SocialBar .FB I { font-size: 2.1em; margin-top: 10px; }
+.Articulo .SocialBar .TW { background: #01c4f0;}
+.Articulo .SocialBar .TW:hover { background: #1cd0f9;}
+.Articulo .SocialBar .TW I { font-size: 2.1em; margin-top: 10px;}
+.Articulo .SocialBar .GG { background: #e82213;}
+.Articulo .SocialBar .GG:hover { background: #ff420a;}
+.Articulo .SocialBar .GG I { font-size: 2.1em; margin-top: 8px;}
+.Articulo .SocialBar .GG SPAN { top: -3px;}
+.Articulo .SocialBar .EM { background: #2c3e4f;}
+.Articulo .SocialBar .EM:hover { background: #3f5469;}
+.Articulo .SocialBar .EM I { font-size: 1.8em; margin-top: 10px;}
+.Articulo .SocialBar .EM SPAN { top: -2px;}
+.Articulo .Media { overflow: hidden; position: relative; margin-bottom: 26px;}
+.Articulo .Picture IMG { width: 100%; height: auto;}
+.Articulo .Picture FIGCAPTION { position: absolute; right: 0; bottom: 0; font: 1.4em/16px "open_sansregular", Arial, Helvetica, sans-serif; color: #FFFFFF; background: rgba(44,62,79,0.8); padding: 12px 18px; }
+.Articulo .SocialTool { position: absolute; left: 0; bottom: 0; float: left;}
+.Articulo .SocialTool SPAN { display: block; float: left; height: 30px; background: #fff; width: 51px; margin-right: 1px; color: #2c3e4f; text-align: center; font-size: 2.2em; line-height: 22px; padding-top: 12px; cursor: pointer; }
+.Articulo .SocialTool:hover SPAN { color: #ff420a;}
+.Articulo .SocialTool UL { float: left; display: none;}
+.Articulo .SocialTool LI { float: left; margin-bottom: 0; padding-left: 0; background: none;}
+.Articulo .SocialTool LI:first-child A { padding-left: 22px;}
+.Articulo .SocialTool LI:last-child A { padding-right: 22px;}
+.Articulo .SocialTool LI A { display: block; height: 32px; background: rgba(44,62,79,0.8); color: #fff; font-size: 1.7em; line-height: 22px; padding: 10px 12px 0px; }
+.Articulo .SocialTool LI A:hover { color: #abd854;}
+.Articulo .SocialTool:hover UL { display: block;}
+.Articulo P { font: 1.4em/22px "open_sansregular", Arial, Helvetica, sans-serif; margin-bottom: 20px;}
+.Articulo H3 { font-size: 1.8em; line-height: 24px; color: #3a424e; background: #abd854; display: inline-block; padding: 6px 16px; margin-bottom: 14px; }
+.Articulo .MediaSlider { float: left; width: 100%; overflow: hidden; height: 448px;}
+.Articulo .MediaSlider LI { float: left; margin-bottom: 0; font-size: 1em; padding-left: 0; background: none; position: relative;}
+.Articulo .MediaSlider FIGCAPTION {right: auto; left: 0; width: 82%; padding-left: 2%; padding-right: 16%;}
+.Articulo .Media .Control { position: absolute; bottom: 0; z-index: 100; width: 50px; height: 31px; font-size: 2.2em; line-height: 22px; color: #3a424e; background: #FFFFFF; display: block; text-align: center; padding-top: 9px; }
+.Articulo .Media .Prev { right: 52px;}
+.Articulo .Media .Next { right: 0}
+.Articulo H4 { font-size: 2em; line-height: 22px; color: #ff420a; margin-bottom: 15px;}
+.Articulo LI { margin-bottom: 20px; font: 1.4em/22px "open_sansregular", Arial, Helvetica, sans-serif; padding-left: 20px; background: url(../images/layout/list-arrow.png) no-repeat 0px 6px; }
+.Articulo BLOCKQUOTE { background: #eff3f7 url(../images/layout/quote-open.png) no-repeat 2% 14px; text-align: center; margin-bottom: 40px; margin-top: 20px; position: relative; }
+.Articulo BLOCKQUOTE P { font: 2.5em/30px "arvoitalic", Arial, Helvetica, sans-serif; color: #3a424e; padding: 22px 4% 15px; background: url(../images/layout/quote-close.png) no-repeat 98% 14px; }
+.Articulo BLOCKQUOTE .Share { display: inline-block; position: relative; top: -7px;}
+.Articulo BLOCKQUOTE .Share A { background: #3a424e; font-size: 2.2em; line-height: 26px; color: #FFFFFF; padding: 7px 10px; }
+.Articulo BLOCKQUOTE .Share A:hover {color: #abd854;}
+.Articulo BLOCKQUOTE .Share .FB { padding-left: 20px;}
+.Articulo BLOCKQUOTE .Share .GG { padding-right: 12px;}
+.Articulo .Video FIGURE {height: 0; padding-bottom: 56.25%; position: relative; width: 100%;}
+.Articulo .Video FIGURE IFRAME {height: 100%; left: 0; position: absolute; top: 0; width: 100%;}
 

@@ -92,6 +92,32 @@ $(function(){
 		align: "center" 
     });
 	
+	/*ARTICULO SLIDER FOTOSS*/
+	$(".MediaSlider").carouFredSel({
+        responsive: true,
+		items: {
+			visible : 1,	
+			height: "56%"
+		},
+		scroll: {
+            items: 1,
+            easing: "swing",
+            duration: 500
+        },
+		prev: {
+			button: ".Prev",
+			items: 1	
+		},
+		next: {
+			button: ".Next",
+			items: 1	
+		},
+		auto: {
+			play: false	
+		}
+    })
+	
+	
 	/*ANCHOR*/
 	$("a.anchorLink").anchorAnimate();
 	

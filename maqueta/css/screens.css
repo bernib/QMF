@@ -114,6 +114,8 @@ SECTION,
 	.Noticia.Destacada H3,
 	.Noticia.BreakingNews H3 {font-size: 3.5em; line-height: 38px;}
 	.ColSize1 .Estadisticas { display: block; width: 100%; text-align: center;}
+	/**/
+	.Articulo {border-right: none; padding-right: 0; width: 100%}
 }
 @media screen and (max-width: 790px) {
 	.Cobertura LI:first-child { width: 61.5%;}
@@ -128,6 +130,9 @@ SECTION,
 	.BotFot { width: 99%; padding-left: 0%; padding-right: 1%;}
 	NAV { display: none;}
 	.MenuSeccion LI A { width: 280px;}
+	/**/
+	.Articulo .SocialBar { float: left; width: 100%; margin-top: 20px;}
+	.Articulo .SocialBar LI { margin-left: 0; margin-right: 5px;}
 }
 @media screen and (max-width: 720px) {
 	.TopAccesos .Buscador .SearchInput,
@@ -222,12 +227,19 @@ SECTION,
 	.Noticia .Videos I {font-size: 1.6em; line-height: 16px;}
 	/**/
 	.BotFot P { font-size: 1.1em; line-height: 13px;}
+	/**/
+	.Articulo .Picture FIGCAPTION { font-size: 1.2em; line-height: 14px;}
+}
+@media screen and (max-width: 560px) {
+	.Articulo .SocialBar SPAN { display: none;}
+	.Articulo .Picture FIGCAPTION { width: 75%; padding-top: 6px; padding-bottom: 6px;}
+	.Articulo .MediaSlider FIGCAPTION { padding-right: 26%; width: 72%;}
 }
 @media screen and (max-width: 482px) {
 	.Cobertura H4 { top: 230px;}
 }
 @media screen and (max-width: 470px) {
-	H1 A { background-position: -300px -100px; height: 32px; width: 57px;}
+	HEADER H1 A { background-position: -300px -100px; height: 32px; width: 57px;}
 	.Noticia.Destacada H3, .Noticia.BreakingNews H3, .Cobertura .Noticia.Large H3 {font-size: 2.1em; line-height: 25px; width: auto;}
 	.Cobertura H4 { top: 167px;}
 	.ColSize2 .InnerCol { overflow: visible;}

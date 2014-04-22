@@ -15,32 +15,24 @@
 <div class="Escudos">
 	<div class="Wrapper">
 		<ul id="Escudos">
+			<li><img src="images/escudos/mx/leon.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/cruzazul.png" width="35" height="35" alt=""></li>
+			<li><img src="images/escudos/mx/jaguares.png" width="35" height="38" alt=""></li>
 			<li><img src="images/escudos/mx/america.png" width="35" height="35" alt=""></li>
-			<li><img src="images/escudos/mx/atlante.png" width="35" height="38" alt=""></li>
 			<li><img src="images/escudos/mx/chivas.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
-			<li><img src="images/pics/placeholder.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/atlas.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/atlante.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/monterrey.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/morelia.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/pachuca.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/puebla.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/pumas.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/queretaro.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/sanluis.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/santos.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/tigres.png" width="35" height="35" alt=""></li>
+			<li><img src="images/escudos/mx/toluca.png" width="35" height="38" alt=""></li>
+			<li><img src="images/escudos/mx/xolos.png" width="35" height="35" alt=""></li>
 		</ul>
 		<a href="#" class="Control Prev"><i class="fa fa-caret-left"></i></a>
 		<a href="#" class="Control Next"><i class="fa fa-caret-right"></i></a>
@@ -63,71 +55,74 @@
 			
 			<div class="ColSize4">
 				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-400x221.jpg" width="400" height="221" alt=""></a></figure>
 					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
 				</div>
 				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic3-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">Remacha Pulido dos clavos al 'ataúd' del Atlante en Cancún</a></h3>
 				</div>
-				<div class="Ads">
+                <div class="Ads">
 					<div class="Object"><img src="images/banners/add-300x250.png" width="300" height="250" alt=""></div>
 				</div>
+                <div class="Ads"></div>
 				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic5-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">De uniformes raros y otras hierbas</a></h3>
+				</div>
+                <div class="Noticia Tema">
+					<figure><a href="#"><img src="images/pics/pic7-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">La 'Máquina' pedirá sanción para Aquivaldo por pisotón (video)</a></h3>
+				</div>
+                <div class="Noticia Tema">
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-400x221.jpg" width="400" height="221" alt=""></a></figure>
 					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
 				</div>
-				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+                <div class="Noticia Tema">
+					<h3><a href="#">Remacha Pulido dos clavos al 'ataúd' del Atlante en Cancún</a></h3>
 				</div>
 				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+					<h3><a href="#">Remacha Pulido dos clavos al 'ataúd' del Atlante en Cancún</a></h3>
 				</div>
 				<div class="Noticia Tema">
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
-				</div>
-				<div class="Noticia Tema">
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
-				</div>
-				<div class="Noticia Tema">
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+					<h3><a href="#">Remacha Pulido dos clavos al 'ataúd' del Atlante en Cancún</a></h3>
 				</div>
 			</div>
 			
 			<div class="ColSize4">
-				<div class="Noticia Tema">
-					<figure><a href="#"><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+                <div class="Noticia Tema">
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic2-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">Alebrijes y un brindis por Oaxaca</a></h3>
 				</div>
-				<div class="Noticia Tema">
-					<figure><a href="#"><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+                <div class="Noticia Tema">
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic4-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">Autogoles que no se olvidan aún con el tiempo (videos)</a></h3>
 				</div>
-				<div class="Ads">
+                <div class="Ads">
 					<div class="Object"><img src="images/banners/add-300x250.png" width="300" height="250" alt=""></div>
 				</div>
 				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+					<figure><a href="#"><img src="images/pics/pic6-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">Omar Bravo dice estar frustrado por su lesión</a></h3>
 				</div>
 				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic8-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">Matosas responde a ultimatum en León con 'remedio infalible'</a></h3>
+				</div>
+				
+				<div class="Noticia Tema">
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic2-400x221.jpg" width="400" height="221" alt=""></a></figure>
+					<h3><a href="#">Alebrijes y un brindis por Oaxaca</a></h3>
+				</div>
+				
+                <div class="Noticia Tema">
+					<h3><a href="#">Autogoles que no se olvidan aún con el tiempo (videos)</a></h3>
 				</div>
 				<div class="Noticia Tema">
-					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="400" height="220" alt=""></a></figure>
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+					<h3><a href="#">Autogoles que no se olvidan aún con el tiempo (videos)</a></h3>
 				</div>
 				<div class="Noticia Tema">
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
-				</div>
-				<div class="Noticia Tema">
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
-				</div>
-				<div class="Noticia Tema">
-					<h3><a href="#">El Tigre ruge en el Universitario y es campeón de Copa MX</a></h3>
+					<h3><a href="#">Autogoles que no se olvidan aún con el tiempo (videos)</a></h3>
 				</div>
 			</div>
 		

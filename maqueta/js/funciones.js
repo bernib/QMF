@@ -72,9 +72,11 @@ $(function(){
 	
 	/*ESCUDOS TEMAS*/
 	$('#Escudos').carouFredSel({
-        responsive: true,
-		width: "variable",
-		items: 22,
+        //responsive: true,
+		width: "100%",
+		items: {
+			minimum	: 15
+		},
 		scroll: {
             items: 1,
             easing: "swing",
@@ -89,7 +91,9 @@ $(function(){
 			button: ".Next",
 			items: 1	
 		},
-		align: "center" 
+		auto: {
+			play: false	
+		}
     });
 	
 	/*ARTICULO SLIDER FOTOSS*/

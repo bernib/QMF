@@ -217,19 +217,19 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Noticia.BreakingNews H3 A {color: #abd854;}
 /*NOTICIA TEMAS*/
 .Escudos { height: 55px; border-bottom: 1px solid #e8e9eb; -webkit-box-shadow: 0 6px 2px 0 rgba(208,215,221,0.3); box-shadow: 0px 6px 2px 0px rgba(208,215,221,0.3); overflow: hidden; }
-.Escudos .Wrapper { max-width: 1146px; position: relative; text-align: center;}
+.Escudos .Wrapper { max-width: 960px; position: relative; text-align: center;}
 .Escudos .caroufredsel_wrapper { margin: 0 auto !important;}
 .Escudos UL { margin: 0 auto; height: 55px; overflow: hidden;}
-.Escudos LI { height: 45px; padding-top: 10px; float: left; width: 51px; text-align: center;}
+.Escudos LI { height: 45px; padding-top: 10px; float: left; width: 52px; text-align: center;}
 .Escudos LI IMG { opacity: 0.4}
 .Escudos LI IMG:hover { opacity: 1}
 .Escudos .Control { position: absolute; top: 12px; color: rgba(44,62,79,.3); font-size: 3em; line-height: 32px; }
 .Escudos .Control:hover {color: rgba(44,62,79,1);}
-.Escudos .Prev { left: -1%;}
-.Escudos .Next { right: -1%}
+.Escudos .Prev { left: -10%;}
+.Escudos .Next { right: -10%}
 .TemasHead { font-size: 3.6em; line-height: 40px; text-transform: uppercase; color: #2c3e4f; text-align: center; padding-top: 15px; }
 .Noticia.Tema { border-bottom: 1px solid #d2d7db;;}
-.Noticia.Tema H3 { color: #2c3e4f; font-size: 2.5em; line-height: 32px;}
+.Noticia.Tema H3 { color: #2c3e4f; font-size: 2.5em; line-height: 32px; min-height: 64px;}
 .Noticia.Tema H3 A { color: #2c3e4f;}
 
 /*ADS*/
@@ -261,7 +261,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Recomendados LI P A:hover { text-decoration: underline;}
 
 /*ARTICULO*/
-.Articulo { float: left; width: 91.9632%; padding-right: 3.7887%; border-right: 1px solid #e4e7e9;}
+.Articulo { float: left; width: 91.9632%; padding-right: 3.7887%; border-right: 1px solid #e4e7e9; margin-bottom: 40px;}
 .Articulo .Head { padding-bottom: 26px; color: #3e4c59;}
 .Articulo .Head H1 { font-size: 4em; line-height: 43px; margin-bottom: 8px; }
 .Articulo .Head H2 { font-size: 1.6em; line-height: 23px; }
@@ -291,7 +291,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .SocialBar .EM:hover { background: #3f5469;}
 .Articulo .SocialBar .EM I { font-size: 1.8em; margin-top: 10px;}
 .Articulo .SocialBar .EM SPAN { top: -2px;}
-.Articulo .Media { overflow: hidden; position: relative; margin-bottom: 26px;}
+.Articulo .Media { overflow: hidden; position: relative; margin-bottom: 26px; z-index: 1; clear: both;}
 .Articulo .Picture IMG { width: 100%; height: auto;}
 .Articulo .Picture FIGCAPTION { position: absolute; right: 0; bottom: 0; font: 1.4em/16px "open_sansregular", Arial, Helvetica, sans-serif; color: #FFFFFF; background: rgba(44,62,79,0.8); padding: 12px 18px; }
 .Articulo .SocialTool { position: absolute; left: 0; bottom: 0; float: left;}
@@ -321,6 +321,32 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo BLOCKQUOTE .Share A:hover {color: #abd854;}
 .Articulo BLOCKQUOTE .Share .FB { padding-left: 20px;}
 .Articulo BLOCKQUOTE .Share .GG { padding-right: 12px;}
-.Articulo .Video FIGURE {height: 0; padding-bottom: 56.25%; position: relative; width: 100%;}
-.Articulo .Video FIGURE IFRAME {height: 100%; left: 0; position: absolute; top: 0; width: 100%;}
+.Articulo .Video FIGURE {height: 0; padding-bottom: 56.25%; position: relative; width: 100%; z-index: 1}
+.Articulo .Video FIGURE IFRAME {height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 1}
+.Articulo .NotasRelacionadas { float: right; width: 300px; margin-left: 20px; margin-bottom: 20px;}
+.Articulo .NotasRelacionadas H4 { font: 1.8em/20px "arvobold", Arial, Helvetica, sans-serif; text-transform: uppercase; color: #FFFFFF; background: #2c3e4f; margin: 0px; padding: 12px 14px 8px; }
+.Articulo .NotasRelacionadas UL { margin: 0;}
+.Articulo .NotasRelacionadas LI { margin: 0; padding: 14px 0; background: none; color: #2c3e4f; font: 2em/25px "arvoregular", Arial, Helvetica, sans-serif; border-bottom: 2px solid #e7eaec }
+.Articulo .NotasRelacionadas LI A {color: #2c3e4f;}
+.Articulo .NotasRelacionadas LI A:hover { text-decoration: underline;}
+.Articulo .Row .NotasRelacionadas { float: none; width: 100%; margin-left: 0; display: none; margin-bottom: 0}
+.Articulo .Etiquetas { color: #2c3e4f; }
+.Articulo .Etiquetas P { font: 1.5em/17px "arvoregular", Arial, Helvetica, sans-serif; margin-bottom: 0 }
+.Articulo .Etiquetas P A { display: inline-block; background: #d5eba9; color: #2c3e4f; padding: 3px 6px; margin-left: 2px; margin-bottom: 5px; }
 
+/**/
+.RecibirNews { background: #e4ebf1; padding-top: 35px; padding-bottom: 35px; overflow: hidden; }
+.RecibirNews + FOOTER { margin-top: 0}
+.RecibirNews H4 { float: left; font-size: 2em; line-height: 28px; color: #ff420b; padding-right: 20px; padding-top: 4px; }
+.RecibirNews H4 I { font-size: 1.1em;}
+.RecibirNews FIELDSET { float: left}
+.RecibirNews INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #2c3e4f; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; float: left; }
+.RecibirNews INPUT[type="submit"] { float: left; font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #ff420a; border: none; text-transform: uppercase; height: 35px; width: 122px; border-radius: 6px; margin-left: 15px; }
+.RecibirNews INPUT[type="submit"]:hover { background: #d33507}
+
+/**/
+.MasFutbol { overflow: hidden;}
+.MasFutbol H2 { font: 1.8em/20px "arvobold", Arial, Helvetica, sans-serif; text-transform: uppercase; color: #FFFFFF; background: #2c3e4f; padding-top: 11px; padding-bottom: 11px; }
+.MasFutbol H2 .Wrapper { display: block;}
+.MasFutbol .ColSize2 { padding-right: 17px;}
+.MasFutbol .ColSize2 + .ColSize2 { padding-right: 0;}

@@ -169,6 +169,78 @@
 		
 	</div>
 </div>
+<section class="MasFutbol">
+	<h2><span class="Wrapper">MÁS DE FÚTBOL INTERNACIONAL</span></h2>
+	<div class="Wrapper">
+		<div class="Container">
+		
+			<div class="ColSize1">
+				<div class="Noticia Large Secundaria">
+					<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic2-500x275.jpg" width="500" height="275" alt=""></a></figure>
+					<h4><a href="#">PREMIER LEAGUE</a></h4>
+					<h3><a href="#">Arsenal no pudo hacerle daño al Manchester United</a></h3>
+				</div>
+				
+				<div class="Ads">
+					<div class="Object"><img src="images/banners/add-300x250.png" width="300" height="250" alt=""></div>
+				</div>
+						
+				<div class="Noticia Large">
+					<h4><a href="#">MUNDIAL 2014</a></h4>
+					<h3><a href="#">¿México, puede ir al mundial sin europeos?</a></h3>
+					<p>De acuerdo a la marca que viste a la Selección Mexicana, este viernes el Tricolor estrenará piel.</p>
+				</div>
+			</div>
+			
+			<div class="ColSize2">				
+				<div class="InnerCol">
+					<div class="Noticia">
+						<figure><a href="#"><img src="images/pics/pic1-283x156.jpg" width="283" height="156" alt=""></a></figure>
+						<h4><a href="#">MUNDIAL 2014</a></h4>
+						<h3><a href="#">Peña pide la copa del Mundo para México</a></h3>
+					</div>
+					<div class="Noticia">
+						<figure><a href="#"><img src="images/pics/pic2-283x156.jpg" width="283" height="156" alt=""></a></figure>
+						<h4><a href="#">COPA DEL REY</a></h4>
+						<h3><a href="#">Duelo de titanes en la Copa del Rey 2014</a></h3>
+					</div>
+					<div class="Ads">
+						<div class="Object"><img src="images/banners/add-300x250.png" width="300" height="250" alt=""></div>
+					</div>
+					<div class="Noticia">
+						<h4><a href="#">COPA DEL REY</a></h4>
+						<h3><a href="#">Barcelona vs. Real Madrid en la final de la Copa del Rey (VIDEO)</a></h3>
+					</div>
+				</div>
+			</div>
+			
+			<div class="ColSize2">
+				<div class="InnerCol">
+					<div class="Noticia">
+						<figure><a href="#"><span class="Fotos"><i class="fa fa-camera"></i></span><img src="images/pics/pic1-300x165.jpg" width="300" height="165" alt=""></a></figure>
+						<h4><a href="#">COPA LIBERTADORES</a></h4>
+						<h3><a href="#">Atlético Mineiro sufre para vencer al Zamora en Venezuela</a></h3>
+					</div>
+					<div class="Noticia">
+						<figure><a href="#"><span class="Videos"><i class="fa fa-play-circle"></i></span><img src="images/pics/pic2-300x165.jpg" width="300" height="165" alt=""></a></figure>
+						<h4><a href="#">LIGA DE CAMPEONES DE EUROPA</a></h4>
+						<h3><a href="#">El Leverkusen intentará nulificar a Ibrahimovic</a></h3>
+					</div>
+					<div class="Noticia">
+						<figure><a href="#"><img src="images/pics/pic3-300x165.jpg" width="300" height="165" alt=""></a></figure>
+						<h4><a href="#">TORNEO CLAUSURA</a></h4>
+						<h3><a href="#">San Lorenzo gana de local y se renueva la esperanza</a></h3>
+					</div>
+					<div class="Noticia">
+						<h4><a href="#">COPA DEL REY</a></h4>
+						<h3><a href="#">Barcelona vs. Real Madrid en la final de la Copa del Rey (VIDEO)</a></h3>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</section>
 <?php include("inc_footer.php"); ?>
 </body>
 </html>

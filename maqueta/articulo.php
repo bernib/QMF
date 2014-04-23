@@ -74,6 +74,9 @@
 				Para este partido, Moyes no contará con el español Juan Mata, su fichaje estrella en el mercado invernal, pues el mediocampista ya disputó esta edición de la Champions con el Chelsea, sitio que podría ser ocupado por el ecuatoriano Antonio Valencia.</p>
 			<p>Olympiacos, por su parte, terminó como segundo del Grupo C, para acceder a la ronda de los mejores 16 clubes de Europa, donde tratará de dar la sorpresa y eliminar al favorito de la serie y deberá aprovechar el apoyo de su gente para dar el primer paso.</p>
 			<p>Olympiacos, por su parte, terminó como segundo del Grupo C, para acceder a la ronda de los mejores 16 clubes de Europa.</p>
+			<p>Los pupilos del escocés David Moyes, que terminaron como líderes del pelotón A en la fase de grupos, tratarán de mantener su buen paso en la Champions, donde marchan invictos en la presente temporada. 
+				Se espera que el atacante mexicano Javier “Chicharito” Hernández tenga algunos minutos, luego que se quedó en el banco de suplentes el sábado ante Crystal Palace, lugar donde seguramente arrancará este martes. 
+				Para este partido, Moyes no contará con el español Juan Mata, su fichaje estrella en el mercado invernal, pues el mediocampista ya disputó esta edición de la Champions con el Chelsea, sitio que podría ser ocupado por el ecuatoriano Antonio Valencia.</p>
 			<div class="Media Picture">
 				<ul class="MediaSlider">
 					<li>

@@ -8,6 +8,7 @@
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="fonts/fonts.css" rel="stylesheet" type="text/css">
 <link href="css/layout.css" rel="stylesheet" type="text/css">
+<link href="css/tooltipster.css" rel="stylesheet" type="text/css">
 <link href="css/screens.css" rel="stylesheet" type="text/css">
 <!--[if (gte IE 6)&(lte IE 8)]>
     <script type="text/javascript" src="js/html5shiv.js"></script>

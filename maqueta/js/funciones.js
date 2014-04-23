@@ -61,6 +61,8 @@ $(function(){
 		$(".Foot .OtrosSitios UL").hide();
 	});
 	
+	$('.tooltip').tooltipster();
+	
 	/*MENU MOBILE*/
 	var Pantalla = $(window).height();
 	

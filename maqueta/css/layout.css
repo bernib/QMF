@@ -142,7 +142,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 /*GRID*/
 .TopBanner { min-height: 37px; text-align: center}
 .TopBanner .Mobile { display: none}
-.Container { width: 100%; min-height: 500px; margin-top: 28px; position: relative; display: table;}
+.Container { width: 100%; min-height: 500px; margin-top: 28px; position: relative; display: table; table-layout: fixed;}
 .ColSize1 { width: 100%; display: table-cell; vertical-align: top; padding-right: 17px;}
 .ColSize2 { width: 317px; display: table-cell; vertical-align: top; padding-right: 37px; /*max-width: 317px;*/}
 .ColSize2 .InnerCol { border-left: 1px solid #d2d7db; padding-left: 16px; overflow: hidden; margin-bottom: 20px; width: 300px;}
@@ -291,7 +291,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .SocialBar .EM:hover { background: #3f5469;}
 .Articulo .SocialBar .EM I { font-size: 1.8em; margin-top: 10px;}
 .Articulo .SocialBar .EM SPAN { top: -2px;}
-.Articulo .Media { overflow: hidden; position: relative; margin-bottom: 26px; z-index: 1; clear: both;}
+.Articulo .Media { overflow: hidden; position: relative; margin-bottom: 26px; z-index: 1;}
 .Articulo .Picture IMG { width: 100%; height: auto;}
 .Articulo .Picture FIGCAPTION { position: absolute; right: 0; bottom: 0; font: 1.4em/16px "open_sansregular", Arial, Helvetica, sans-serif; color: #FFFFFF; background: rgba(44,62,79,0.8); padding: 12px 18px; }
 .Articulo .SocialTool { position: absolute; left: 0; bottom: 0; float: left;}

@@ -38,10 +38,63 @@
 		<a href="#" class="Control Next"><i class="fa fa-caret-right"></i></a>
 	</div>
 </div>
+<section class="Equipo">
+	<div class="Wrapper">
+		
+		<div class="Head">
+			<div class="Inner">
+				<figure><img src="images/escudos/mx/monterrey-big.png" width="112" height="112" alt="Monterrey"></figure>
+				<div class="Data">
+					<h2>Monterrey</h2>
+					<p>FUNDACIÓN: 27 de junio de 1945<br>
+						ESTADIO: Tecnológico<br>
+					<a href="#" target="_blank">SITIO OFICIAL</a></p>
+				</div>
+			</div>
+		</div>
+		<ul class="Listado">
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+		</ul>
+		<div class="Trigger">
+			<span class="ShowPlantel">Plantel <i class="fa fa-chevron-down"></i><i class="fa fa-chevron-up"></i></span>
+		</div>
+		
+	</div>
+</section>
 
 <div class="Wrapper">
-
-	<h2 class="TemasHead">Fútbol mexicano</h2>
 	
 	<div class="Container">
 

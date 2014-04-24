@@ -43,7 +43,7 @@
 		
 		<div class="Head">
 			<div class="Inner">
-				<figure><img src="images/escudos/mx/monterrey-big.png" width="112" height="112" alt="Monterrey"></figure>
+				<figure><img src="images/escudos/mx/monterrey-big.png" width="72" height="109" alt="Monterrey"></figure>
 				<div class="Data">
 					<h2>Monterrey</h2>
 					<p>FUNDACIÓN: 27 de junio de 1945<br>
@@ -52,7 +52,7 @@
 				</div>
 			</div>
 		</div>
-		<ul class="Listado">
+		<ul class="Listado" id="ListadoEquipo">
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>

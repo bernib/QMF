@@ -63,6 +63,11 @@ $(function(){
 	
 	$('.tooltip').tooltipster();
 	
+	$(".ShowPlantel").click(function(){
+		$(this).toggleClass("Active");
+		$("#ListadoEquipo").slideToggle();
+	});
+	
 	/*MENU MOBILE*/
 	var Pantalla = $(window).height();
 	

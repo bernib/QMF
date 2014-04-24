@@ -357,19 +357,19 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Equipo { width: 100%; text-align: left; margin-bottom: 20px; overflow: hidden;}
 .Equipo .Head { padding-top: 24px; padding-bottom: 24px; position: relative; left: 50%; float: left;}
 .Equipo .Inner { position: relative; left: -50%; overflow: hidden;}
-.Equipo .Head FIGURE { float: left; margin-right: 7px;}
+.Equipo .Head FIGURE { float: left; margin-right: 26px;}
 .Equipo .Head .Data { float: left;}
 .Equipo .Head H2 { font-size: 4em; line-height: 42px; text-transform: uppercase; color: #2c3e4f; margin-bottom: 8px; }
 .Equipo .Head P { font: 1.3em/21px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; }
 .Equipo .Head P A { color: #ff420a}
 .Equipo .Head P A:hover { text-decoration: underline;}
 .Equipo .Trigger { width: 100%; clear: left; text-align: center; border-top: 1px solid #e7ebee; padding-bottom: 5px;}
-.Equipo .Trigger .ShowPlantel { display: block; margin: 0 auto; width: 83px; font: 1.1em/18px 'ubuntumedium', Arial, Helvetica, sans-serif; color: #2c3e4f; background: #FFFFFF; height: 18px; border-top: 1px solid #FFFFFF; border-right: 1px solid #e7ebee; border-bottom: 1px solid #e7ebee; border-left: 1px solid #e7ebee; text-transform: uppercase; text-align: center; border-radius: 0px 0px 4px 4px; -webkit-box-shadow: 0 3px 2px 0 rgba(208,215,221,0.3); box-shadow: 0px 3px 2px 0px rgba(208,215,221,0.3); position: relative; margin-top: -1px; }
+.Equipo .Trigger .ShowPlantel { display: block; margin: 0 auto; width: 83px; font: 1.1em/18px 'ubuntumedium', Arial, Helvetica, sans-serif; color: #2c3e4f; background: #FFFFFF; height: 18px; border-top: 1px solid #FFFFFF; border-right: 1px solid #e7ebee; border-bottom: 1px solid #e7ebee; border-left: 1px solid #e7ebee; text-transform: uppercase; text-align: center; border-radius: 0px 0px 4px 4px; -webkit-box-shadow: 0 3px 2px 0 rgba(208,215,221,0.3); box-shadow: 0px 3px 2px 0px rgba(208,215,221,0.3); position: relative; margin-top: -1px; cursor: pointer; }
 .Equipo .Trigger .ShowPlantel I { margin-left: 3px;}
 .Equipo .fa-chevron-up { display: none}
 .Equipo .Active .fa-chevron-down { display: none}
 .Equipo .Active .fa-chevron-up { display: inline-block}
-.Equipo .Listado { clear: left; padding-bottom: 29px; overflow: hidden; padding-top: 25px; border-top: 1px solid #e7ebee}
+.Equipo .Listado { clear: left; padding-bottom: 29px; overflow: hidden; padding-top: 25px; border-top: 1px solid #e7ebee; display: none;}
 .Equipo .Listado LI { width: 33.33%; float: left; font: 1.2em/24px 'ubuntubold', Arial, Helvetica, sans-serif; color: #2c3e4f; text-transform: uppercase; margin-bottom: 1px; }
 .Equipo .Listado SPAN { display: inline-block; height: 24px; width: 29px; margin-right: 1px; background: #abd854; text-align: center;}
 .Equipo .Listado STRONG { font-weight: normal; display: inline-block; height: 24px; padding-left: 7px; width: 82px; background: #2c3e4f; color: #FFFFFF; margin-right: 8px; }

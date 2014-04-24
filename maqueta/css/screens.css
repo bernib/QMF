@@ -51,6 +51,7 @@ SECTION,
 @media screen and (max-width: 1010px) {
 	.TopAccesos .Buscador .SearchInput,
 	.TopAccesos .Buscador:hover .SearchInput {width: 145px; background: #fff;}
+	.Equipo .Listado LI { width: 50%;}
 }
 @media screen and (max-width: 980px) {
 	.MainTopBanner { display: none;}
@@ -157,6 +158,7 @@ SECTION,
 @media screen and (max-width: 720px) {
 	.TopAccesos .Buscador .SearchInput,
 	.TopAccesos .Buscador:hover .SearchInput {width: 170px;}
+	.Equipo .Listado LI { width: 100%;}
 }
 @media screen and (max-width: 650px) {
 	.TopAccesos LI:first-child { display: none}
@@ -272,6 +274,7 @@ SECTION,
 	.BotFot P { width: 100%; text-align: center; padding-bottom: 8px; margin: 0;}
 	.Noticia.Large.Principal, .Noticia.Large.Secundaria { padding-bottom: 5px;}
 	.Noticia.Large { padding-bottom: 0;}
+	.Equipo .Head H2 { font-size: 2.8em; line-height: 32px;}
 }
 @media screen and (max-width: 430px) {
 	.MenuSeccion { margin-right: 45px;}
@@ -291,5 +294,10 @@ SECTION,
 	.ColSize1 .Estadisticas { width: 104%; position: relative; left: -2%; margin-right: -2%;}
 	.Cobertura H4 {top: 157px;}
 	.Noticia H4 { width: 50%;}
+	.Equipo .Head FIGURE { margin-right: 12px;}
+	.Equipo .Head H2 {font-size: 2.5em; line-height: 28px;}
+	.Equipo .Listado LI { font-size: 1.1em;}
+	.Equipo .Listado LI SPAN { width: 16px;}
+	.Equipo .Listado LI STRONG { width: 72px;}
 }
 

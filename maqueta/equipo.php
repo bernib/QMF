@@ -18,21 +18,28 @@
 			<li><a href="#"><img src="images/escudos/mx/leon.png" width="35" height="38" alt=""></a></li>
 			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/cruzazul.png" width="35" height="35" alt=""></a></li>
 			<li><a href="#"><img src="images/escudos/mx/jaguares.png" width="35" height="38" alt=""></a></li>
-			<li><img src="images/escudos/mx/america.png" width="35" height="35" alt=""></li>
-			<li><img src="images/escudos/mx/chivas.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/atlas.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/atlante.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/monterrey.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/morelia.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/pachuca.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/puebla.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/pumas.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/queretaro.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/sanluis.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/santos.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/tigres.png" width="35" height="35" alt=""></li>
-			<li><img src="images/escudos/mx/toluca.png" width="35" height="38" alt=""></li>
-			<li><img src="images/escudos/mx/xolos.png" width="35" height="35" alt=""></li>
+			<li><a href="#"><img src="images/escudos/mx/america.png" width="35" height="35" alt=""></a></li>
+			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/chivas.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/atlas.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/atlante.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/monterrey.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/morelia.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/pachuca.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/puebla.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/pumas.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/queretaro.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/sanluis.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/santos.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/tigres.png" width="35" height="35" alt=""></a></li>
+			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/toluca.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/xolos.png" width="35" height="35" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/pumas.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/queretaro.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/sanluis.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/santos.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/tigres.png" width="35" height="35" alt=""></a></li>
+			<li><a href="#"><img src="images/escudos/mx/toluca.png" width="35" height="38" alt=""></a></li>
+			<li><a href="#" class="tooltip" title="Monterey"><img src="images/escudos/mx/xolos.png" width="35" height="35" alt=""></a></li>
 		</ul>
 		<a href="#" class="Control Prev"><i class="fa fa-caret-left"></i></a>
 		<a href="#" class="Control Next"><i class="fa fa-caret-right"></i></a>

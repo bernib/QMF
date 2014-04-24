@@ -132,8 +132,8 @@ SECTION,
 	/**/
 	.MasFutbol .ColSize2 { padding-right: 0;}
 	.MasFutbol .ColSize2 + .ColSize2 { display: none;}
-	.Escudos .Prev { left: -2%;}
-	.Escudos .Next { right: -2%}
+	.Escudos .Prev { left: 1%;}
+	.Escudos .Next { right: 1%}
 }
 @media screen and (max-width: 890px) {
 	.RecibirNews FIELDSET { margin-top: 15px;}

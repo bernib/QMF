@@ -23,13 +23,13 @@
 				<h2>Los 'Red Devils' viajan a Grecia para enfrentar a los pupilos de Miguel González 'Michel' en importante duelo de octavos de la Liga de Campeones de Europa.</h2>
 			</div>
 			<div class="Row">
-				<figure class="Autor">
+				<div class="Autor">
 					<a href="#"><img src="images/pics/autor.jpg" width="43" height="44" alt="Daniel Arcucci"></a>
-					<figcaption>
+					<div class="Data">
 						<a href="#">Daniel Arcucci</a><br>
 						<small>FEB, 24, 2014 <span><i class="fa fa-clock-o"></i> 5:31 PM EST</span></small>
-					</figcaption>
-				</figure>
+					</div>
+				</div>
 				<ul class="SocialBar">
 					<li><a href="#" class="FB"><i class="fa fa-facebook"></i> <span>Comparte</span></a></li>
 					<li><a href="#" class="TW"><i class="fa fa-twitter"></i> <span>Tweet</span></a></li>
@@ -130,6 +130,11 @@
 			<p>Incluyó en su formación como técnico el paso por la figura del player-manager, algo que se estila mucho en las islas y que fuera de ellas parece poco menos que un pecado. Incluyó en su formación como técnico el paso por la figura del player-manager, algo que se estila mucho en las islas y que fuera de ellas parece poco menos que un pecado. </p>
 			<p>México.- Con mejor ánimo que otras semanas, luego de su triunfo en la Liga Premier, Manchester United quiere seguir con esa racha positiva cuando visite al Olympiacos griego en la “ida”, de los octavos de final de la Liga de Campeones. 
 				Comandado por sus goleadores Robin van Persie y Wayne Rooney, los “red devils” lograron un triunfo 2-0 sobre Crystal Palace, con el cual extendieron a tres sus partidos sin conocer la derrota en un torneo irregular, para ellos en esta campaña.</p>
+
+			<div class="Etiquetas">
+				<p><a href="#">Barcelona</a> <a href="#">Bayern munich</a> <a href="#">Curiosidades futbol</a></p>
+			</div>
+			
 			<!-- RELACIONADAS MOBILE-->
 			<div class="Row">
 				<div class="NotasRelacionadas">
@@ -143,8 +148,9 @@
 				</div>
 			</div>
 			<!-- FIN -->
-			<div class="Etiquetas">
-				<p><a href="#">Barcelona</a> <a href="#">Bayern munich</a> <a href="#">Curiosidades futbol</a></p>
+			
+			<div class="Comentarios">
+				<h4>Comentarios</h4>
 			</div>
 		</section>
 

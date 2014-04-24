@@ -256,7 +256,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .Row {overflow: hidden; padding-bottom: 22px;}
 .Articulo .Autor { float: left; color: #3e4c59;}
 .Articulo .Autor IMG { float: left}
-.Articulo .Autor FIGCAPTION { float: left; padding-left: 12px;}
+.Articulo .Autor .Data { float: left; padding-left: 12px;}
 .Articulo .Autor A { color: #3e4c59; font-size: 1.4em; line-height: 16px; text-decoration: underline; }
 .Articulo .Autor A:hover { text-decoration: none;}
 .Articulo .Autor SMALL { display: inline-block; padding-top: 5px; font: 1.1em/18px "open_sansregular", Arial, Helvetica, sans-serif; }
@@ -319,8 +319,10 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .NotasRelacionadas LI A:hover { text-decoration: underline;}
 .Articulo .Row .NotasRelacionadas { float: none; width: 100%; margin-left: 0; display: none; margin-bottom: 0}
 .Articulo .Etiquetas { color: #2c3e4f; }
-.Articulo .Etiquetas P { font: 1.5em/17px "arvoregular", Arial, Helvetica, sans-serif; margin-bottom: 0 }
+.Articulo .Etiquetas P { font: 1.5em/17px "arvoregular", Arial, Helvetica, sans-serif; }
 .Articulo .Etiquetas P A { display: inline-block; background: #d5eba9; color: #2c3e4f; padding: 3px 6px; margin-left: 2px; margin-bottom: 5px; }
+.Articulo .Comentarios { width: 100%; float: none; clear: left; overflow: hidden; margin-top: 20px;}
+.Articulo .Comentarios H4 { background: #FF420A; color: #fff; padding: 6px 10px; font: 1.8em/20px "arvobold", Arial, Helvetica, sans-serif; text-transform: uppercase; }
 
 /**/
 .RecibirNews { background: #e4ebf1; padding-top: 35px; padding-bottom: 35px; overflow: hidden; }
@@ -341,7 +343,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 
 /*TEMAS*/
 .Escudos { height: 55px; border-bottom: 1px solid #e8e9eb; -webkit-box-shadow: 0 6px 2px 0 rgba(208,215,221,0.3); box-shadow: 0px 6px 2px 0px rgba(208,215,221,0.3); overflow: hidden; }
-.Escudos .Wrapper { max-width: 960px; position: relative; text-align: center;}
+.Escudos .Wrapper { max-width: 1100px; position: relative; text-align: center;}
 .Escudos .caroufredsel_wrapper { margin: 0 auto !important;}
 .Escudos UL { margin: 0 auto; height: 55px; overflow: hidden;}
 .Escudos LI { height: 45px; padding-top: 10px; float: left; width: 52px; text-align: center;}
@@ -349,8 +351,8 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Escudos LI IMG:hover { opacity: 1}
 .Escudos .Control { position: absolute; top: 12px; color: rgba(44,62,79,.3); font-size: 3em; line-height: 32px; }
 .Escudos .Control:hover {color: rgba(44,62,79,1);}
-.Escudos .Prev { left: -10%;}
-.Escudos .Next { right: -10%}
+.Escudos .Prev { left: -3%;}
+.Escudos .Next { right: -3%;}
 .TemasHead { font-size: 3.6em; line-height: 40px; text-transform: uppercase; color: #2c3e4f; text-align: center; padding-top: 15px; }
 
 /*EQUIPO*/

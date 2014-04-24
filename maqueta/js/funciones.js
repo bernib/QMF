@@ -82,7 +82,7 @@ $(function(){
         //responsive: true,
 		width: "100%",
 		items: {
-			minimum	: 15
+			minimum	: 16
 		},
 		scroll: {
             items: 1,

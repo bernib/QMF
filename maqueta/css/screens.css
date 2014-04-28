@@ -134,6 +134,7 @@ SECTION,
 	.MasFutbol .ColSize2 + .ColSize2 { display: none;}
 	.Escudos .Prev { left: 1%;}
 	.Escudos .Next { right: 1%}
+	.NuevaClave {border-right: none; padding-right: 0; width: 100%}
 }
 @media screen and (max-width: 890px) {
 	.RecibirNews FIELDSET { margin-top: 15px;}
@@ -255,6 +256,14 @@ SECTION,
 	.ColSize4 { float: left; margin-right: 0; width: 100%;}
 	.Noticia.Tema { float: none; clear: left; overflow: hidden;}
 	.Noticia.Tema H3 {font-size: 1.7em; line-height: 21px;}
+	/**/
+	.Resultado H3 {font: 1.7em/21px 'arvoregular', Arial, Helvetica, sans-serif;}
+	.Resultado P { margin-bottom: 10px;}
+	.Resultado H4 A { background: none; color: #76a222; font: 1.2em/14px 'ubunturegular',Arial,Helvetica,sans-serif; padding: 0px; margin-bottom: 10px; }
+	.Resultado .Fotos ,
+	.Resultado .Videos { background: #8bad52; width: 28px; height: 18px; padding: 6px 0 0; text-align: center }
+	.Resultado .Fotos I {font-size: 1.4em; line-height: 16px;}
+	.Resultado .Videos I {font-size: 1.6em; line-height: 16px;}
 }
 @media screen and (max-width: 560px) {
 	.Articulo .SocialBar SPAN { display: none;}
@@ -287,6 +296,11 @@ SECTION,
 	.GrupoDestacado .Seccion + .Sponsor FIGCAPTION { margin-right: 5px;}
 	.Noticia FIGURE + H4 + H3 { display: inline-block; width: 52%;}
 	.RecibirNews INPUT[type="submit"] { margin-left: 0; margin-top: 15px;}
+	.NuevaClave FIELDSET { padding-left: 0; padding-right: 0;}
+	/**/
+	.Resultado H3 {font: 1.5em/18px 'arvoregular', Arial, Helvetica, sans-serif;}
+	.Resultado P { margin-bottom: 5px;}
+	.Resultado H4 A { font: 1.1em/13px 'ubunturegular',Arial,Helvetica,sans-serif; margin-bottom: 5px; }
 }
 @media screen and (max-width: 350px) {
 	.Ads { width: 104%; position: relative; left: -2%; margin-right: -2%;}

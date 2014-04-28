@@ -376,3 +376,45 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Equipo .Listado SPAN { display: inline-block; height: 24px; width: 29px; margin-right: 1px; background: #abd854; text-align: center;}
 .Equipo .Listado STRONG { font-weight: normal; display: inline-block; height: 24px; padding-left: 7px; width: 82px; background: #2c3e4f; color: #FFFFFF; margin-right: 8px; }
 
+/*404*/
+.Msg404 H2 { font-size: 3.6em; line-height: 38px; color: #2c3e4f; margin-bottom: 30px; margin-top: 20px; }
+.Msg404 P { font: 1.4em/16px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; background: #e4ebf1; padding: 20px; }
+.Msg404 P A {color: #2c3e4f; text-decoration: underline}
+
+/*NUEVA PASS*/
+.NuevaClave { float: left; width: 91.9632%; padding-right: 3.7887%; border-right: 1px solid #e4e7e9; margin-bottom: 40px;}
+.NuevaClave H2 { font-size: 3em; line-height: 32px; color: #3a424e; margin-bottom: 30px; }
+.NuevaClave FIELDSET { background: #e4ebf1; padding: 35px 30px 20px; text-align: center }
+.NuevaClave P { border-bottom: 1px solid #fff; padding-bottom: 15px;}
+.NuevaClave INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #2c3e4f; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 15px; }
+.NuevaClave INPUT[type="submit"] {font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #ff420a; border: none; text-transform: uppercase; height: 35px; width: 102px; margin-top: 20px; border-radius: 6px; }
+.NuevaClave INPUT[type="submit"]:hover { background: #d33507}
+
+/*RESULTADOS*/
+.ResultadoBusqueda { float: left; width: 95.7520%; margin-bottom: 40px;}
+.ResultadoBusqueda H2 { font-size: 3.6em; line-height: 38px; color: #3a424e; margin-bottom: 25px; }
+.ResultadoBusqueda .Msg { background: #e4ebf1; padding: 20px; color: #2c3e4f; margin-bottom: 5px;}
+.ResultadoBusqueda .Msg P { font: 1.4em/16px 'ubunturegular', Arial, Helvetica, sans-serif; }
+.ResultadoBusqueda .Msg P STRONG { font-weight: normal; font-family: "ubuntubold", Arial, Helvetica, sans-serif}
+.ResultadoBusqueda .Msg .Palabra { color: #ff420a;}
+.Resultado LI { padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid #d2d7db; overflow: hidden;}
+.Resultado FIGURE { float: left; margin-right: 2.6378%; width: 33.9328%; position: relative;}
+.Resultado FIGURE IMG { width: 100%; height: auto;}
+.Resultado .Data { float: left; width: 100%;}
+.Resultado FIGURE + .Data { float: left; width: 63.4292%;}
+.Resultado P { font: 1.1em/13px "open_sansregular", Arial, Helvetica, sans-serif; color: #3e4c59; margin-bottom: 15px; }
+.Resultado P I { margin-left: 8px; font-size: 1.2em;}
+.Resultado H4 { font: 1.2em/14px "ubuntubold", Arial, Helvetica, sans-serif; color: #2c3e4f; }
+.Resultado H4 A { color: #2c3e4f; background: #abd854; display: inline-block; padding: 6px 12px 3px; margin-bottom: 15px; }
+.Resultado H4 A:hover { background: #bee76f;}
+.Resultado H3 { font-size: 2.5em; line-height: 28px; color: #2c3e4f; }
+.Resultado H3 A {color: #2c3e4f;}
+.Resultado H3 A:hover { text-decoration: underline;}
+.Resultado .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2c3e4f; text-align: center; padding-top: 10px; }
+.Resultado .Fotos I { font-size: 1.8em; line-height: 18px; color: #FFFFFF; }
+.Resultado .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2c3e4f; text-align: center; padding-top: 6px; }
+.Resultado .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
+
+
+
+

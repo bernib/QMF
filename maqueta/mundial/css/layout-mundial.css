@@ -122,8 +122,8 @@ NAV LI A { display: block; font: 1.4em/16px 'ubuntubold', Arial, Helvetica, sans
 NAV LI A:hover { color: #2b4e37;}
 
 /**/
-FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; width: 100%; float: left; margin-top: 40px;}
-.MainBotBanner { min-height: 105px; margin-top: 15px; text-align: center; border-bottom: 1px solid #fff;}
+FOOTER { background: #000; min-height: 97px; border-top: 1px solid #dddddd; width: 100%; float: left; margin-top: 40px;}
+.MainBotBanner { min-height: 105px; margin-top: 15px; text-align: center; border-bottom: 1px solid #515151;}
 .Foot { min-height: 97px;}
 .Foot .Copy { float: left; margin-top: 15px; margin-left: 13px;}
 .Foot .Copy H4 { background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -50px; text-indent: -5000px; height: 38px; width: 188px; margin-bottom: 10px; }

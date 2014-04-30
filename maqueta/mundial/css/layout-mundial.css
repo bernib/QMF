@@ -36,18 +36,18 @@ HEADER { background: #2b4e37; min-height: 53px; border-bottom: 1px solid #dbeeb8
 .MenuSeccion { float: left; margin-right: 26px; margin-top: 18px; position: relative;}
 .MenuSeccion .Trigger I { display: block; height: 22px; width: 22px; font-size: 2.5em; line-height: 25px; color: #FFFFFF; }
 .MenuSeccion UL { position: absolute; left: 0; top: 22px; background: url(../images/layout/menu-arrow.png) no-repeat 0px 4px; padding-top: 13px; display: none; }
-.MenuSeccion LI { background: #e4ebf1; font: 1.8em/26px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; white-space: nowrap; padding: 1px 6px; }
+.MenuSeccion LI { background: #e2e4e6; font: 1.8em/26px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; white-space: nowrap; padding: 1px 6px; }
 .MenuSeccion LI:first-child { padding-top: 20px;}
 .MenuSeccion LI.Ultimo { padding-bottom: 20px;}
 .MenuSeccion LI A { display: block; color: #000; padding: 3px 19px; }
 .MenuSeccion LI A .fa { visibility: hidden;}
-.MenuSeccion LI A:hover { color: #e4ebf1; background: #2b4e37;}
+.MenuSeccion LI A:hover { color: #e2e4e6; background: #2b4e37;}
 .MenuSeccion .Opciones,
 .MenuSeccion .Lnks,
 .MenuSeccion LI.Last { display: none}
 .MenuSeccion:hover UL { display: block;}
-HEADER H1 { float: left; margin-top: 9px;}
-HEADER H1 A { display: block; width: 525px; height: 44px; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px 0px; text-indent: -5000px; }
+HEADER H1 { float: left; margin-top: 5px;}
+HEADER H1 A { display: block; width: 525px; height: 48px; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px 0px; text-indent: -5000px; }
 HEADER .Sponsor { display:none; /*float: left; margin-left: 21px; margin-top: 18px;*/}
 HEADER .Sponsor FIGCAPTION { float: left; font: 1.2em/18px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #d8d5d5; margin-right: 8px; }
 HEADER .Sponsor IMG { float: left;}
@@ -58,13 +58,13 @@ HEADER .Sponsor IMG { float: left;}
 .TopAccesos .SearchInput { height: 18px; width: 55px; border: none; border-radius: 18px; padding: 9px 0px 9px 20px; float: left; background: transparent; font: 1.6em/18px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; }
 .TopAccesos .GoBtn { display: block; font-size: 2em; float: left; height: 36px; width: 36px; border: none; margin-left: -40px; position: relative; color: #FFFFFF; background: none; }
 .TopAccesos .Buscador:hover .SearchInput { background: #fff; width: 255px;}
-.TopAccesos .Buscador:hover .GoBtn I {color: #ff420a;}
+.TopAccesos .Buscador:hover .GoBtn I {color: #2b4e37;}
 .TopAccesos .Icon SPAN {display: none}
 .TopAccesos .Icon I { display: block; height: 29px; font-size: 2.2em; line-height: 29px; color: #FFFFFF; margin-left: 19px; }
-.TopAccesos .Icon:hover I { color: #e4ebf1;}
+.TopAccesos .Icon:hover I { color: #e2e4e6;}
 .Newsletter {position: absolute; right: -34px; top: 29px; width: 300px; background: url(../images/layout/menu-arrow.png) no-repeat 242px 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none; }
 .Newsletter .CloseThis { display: none;}
-.Newsletter FIELDSET { background: #e4ebf1; padding: 16px 12px; border-bottom: 1px solid #c4c4c5; }
+.Newsletter FIELDSET { background: #e2e4e6; padding: 16px 12px; border-bottom: 1px solid #c4c4c5; }
 .Newsletter P { font: 1.4em/16px 'ubunturegular', Arial, Helvetica, sans-serif; color: #000; padding-bottom: 13px; }
 .Newsletter INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #808285; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 20px; }
 .Newsletter INPUT[type="submit"] { float: right; font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #89b82d; border: none; text-transform: uppercase; height: 35px; width: 122px; border-radius: 6px; }
@@ -73,7 +73,7 @@ HEADER .Sponsor IMG { float: left;}
 .Newsletter .Error { color: #ff7d0a;}
 .ShowNewsletter:hover .Newsletter { display: block;}
 .Login { position: absolute; right: 0; top: 29px; width: 316px; background: url(../images/layout/menu-arrow.png) no-repeat right 3px; padding-top: 12px; border-bottom: 1px solid #cfcfcf; display: none;}
-.Login FIELDSET { background: #e4ebf1; padding: 16px 20px; border-bottom: 1px solid #c4c4c5; min-height: 388px;}
+.Login FIELDSET { background: #e2e4e6; padding: 16px 20px; border-bottom: 1px solid #c4c4c5; min-height: 388px;}
 .Login .FBconnect { padding-bottom: 20px; text-align: center; border-bottom: 1px solid #fff; padding-top: 10px; margin-bottom: 18px;}
 .Login .FBconnect A { background: url(../../mundial/images/layout/sprite.png) no-repeat -70px -108px; text-indent: -5000px; display: block; margin: 0px auto; height: 34px; width: 226px; }
 .Login H4 { color: #000; text-align: center; font: 1.5em/17px 'ubuntumedium', Arial, Helvetica, sans-serif; margin-bottom: 18px; }
@@ -126,7 +126,7 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .MainBotBanner { min-height: 105px; margin-top: 15px; text-align: center; border-bottom: 1px solid #fff;}
 .Foot { min-height: 97px;}
 .Foot .Copy { float: left; margin-top: 15px; margin-left: 13px;}
-.Foot .Copy H4 { background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -40px; text-indent: -5000px; height: 38px; width: 188px; margin-bottom: 10px; }
+.Foot .Copy H4 { background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -50px; text-indent: -5000px; height: 38px; width: 188px; margin-bottom: 10px; }
 .Foot .OtrosSitios { float: right; margin-right: 6px; margin-top: 28px; position: relative;}
 .Foot .OtrosSitios H4 { text-transform: uppercase; color: #FFFFFF; font: 1.1em/22px 'ubunturegular', Arial, Helvetica, sans-serif; background: #455564; float: left; height: 22px; padding-right: 10px; padding-left: 10px; border-radius: 6px; cursor: pointer; display: none; }
 .Foot .OtrosSitios H4 I { font-size: 1.4em; margin-left: 12px;}
@@ -163,9 +163,9 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Noticia H3 { font-size: 2em; line-height: 24px; color: #3e4c59; margin-top: 10px;}
 .Noticia H3 A {color: #000;}
 .Noticia H3 A:hover { text-decoration: underline;}
-.Noticia .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: #fdd913; text-align: center; padding-top: 10px; }
+.Noticia .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: rgba(253,217,19,0.7); text-align: center; padding-top: 10px; }
 .Noticia .Fotos I { font-size: 1.8em; line-height: 18px; color: #FFFFFF; }
-.Noticia .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #fdd913; text-align: center; padding-top: 6px; }
+.Noticia .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: rgba(253,217,19,0.7); text-align: center; padding-top: 6px; }
 .Noticia .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
 /*NOTICIAS GRANDES*/
 .Noticia.Large { margin-bottom: 30px; padding-bottom: 1px; border-top: 2px solid #d2d7db; padding-top: 18px; border-bottom: none;}
@@ -192,7 +192,7 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .GrupoDestacado .Noticia:last-child { border: none; margin-bottom: 0;}
 /*NOTICIA COBERTURA*/
 .Cobertura { width: 92%; background: #e2e4e6; float: left; margin-bottom: 26px; padding: 44px 1.9184% 18px; position: relative; }
-.Cobertura H4 { font: 1.8em/20px 'ubuntubold', Arial, Helvetica, sans-serif; color: #2c3e4f; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -135px; position: absolute; left: -7px; top: 0; float: left; height: 31px; padding: 6px 11px 0px 22px; }
+.Cobertura H4 { font: 1.8em/20px 'ubuntubold', Arial, Helvetica, sans-serif; color: #2c3e4f; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -145px; position: absolute; left: -7px; top: 0; float: left; height: 31px; padding: 6px 11px 0px 22px; }
 .Cobertura H4 A {color: #fff;}
 .Cobertura .Sponsor { position: absolute; top: 14px; right: 1.9184%;}
 .Cobertura .Sponsor FIGCAPTION { float: left; font: 1.2em/14px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #7f8488; padding-right: 9px; }
@@ -217,8 +217,8 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Noticia.BreakingNews H3 A {color: #fff;}
 /*NOTICIA TEMAS*/
 .Noticia.Tema { border-bottom: 1px solid #d2d7db;;}
-.Noticia.Tema H3 { color: #2c3e4f; font-size: 2.5em; line-height: 32px; min-height: 64px;}
-.Noticia.Tema H3 A { color: #2c3e4f;}
+.Noticia.Tema H3 { color: #000; font-size: 2.5em; line-height: 32px; min-height: 64px;}
+.Noticia.Tema H3 A { color: #000;}
 
 /*ADS*/
 .Ads { margin-bottom: 30px; text-align: center}
@@ -237,7 +237,7 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .LoMasVisto LI IMG { width: 100%; height: auto; /*max-height: 165px;*/}
 .LoMasVisto LI H4 { font-size: 2em; line-height: 24px; color: #2c3e4f; margin-top: 10px; margin-bottom: 16px; }
 .LoMasVisto LI H4 A { color: #000;}
-.LoMasVisto LI H4 STRONG { display: block; width: 64px; height: 50px; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -80px; text-align: center; font: 1.8em/40px 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; position: absolute; left: -7px; top: 53px; padding-top: 3px; }
+.LoMasVisto LI H4 STRONG { display: block; width: 64px; height: 50px; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -90px; text-align: center; font: 1.8em/40px 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; position: absolute; left: -7px; top: 53px; padding-top: 3px; }
 .LoMasVisto LI H4 A:hover { text-decoration: underline;}
 /**/
 .Recomendados { background: #e9ebed; margin-bottom: 20px;}
@@ -283,8 +283,8 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .Picture IMG { width: 100%; height: auto;}
 .Articulo .Picture FIGCAPTION { position: absolute; right: 0; bottom: 0; font: 1.4em/16px "open_sansregular", Arial, Helvetica, sans-serif; color: #FFFFFF; background: rgba(43,78,55,0.8); padding: 12px 18px; }
 .Articulo .SocialTool { position: absolute; left: 0; bottom: 0; float: left;}
-.Articulo .SocialTool SPAN { display: block; float: left; height: 30px; background: #fff; width: 51px; margin-right: 1px; color: #2c3e4f; text-align: center; font-size: 2.2em; line-height: 22px; padding-top: 12px; cursor: pointer; }
-.Articulo .SocialTool:hover SPAN { color: #ff420a;}
+.Articulo .SocialTool SPAN { display: block; float: left; height: 30px; background: #fff; width: 51px; margin-right: 1px; color: #2b4e37; text-align: center; font-size: 2.2em; line-height: 22px; padding-top: 12px; cursor: pointer; }
+.Articulo .SocialTool:hover SPAN { color: #fdd913;}
 .Articulo .SocialTool UL { float: left; display: none;}
 .Articulo .SocialTool LI { float: left; margin-bottom: 0; padding-left: 0; background: none;}
 .Articulo .SocialTool LI:first-child A { padding-left: 22px;}
@@ -297,7 +297,7 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .MediaSlider { float: left; width: 100%; overflow: hidden; height: 448px;}
 .Articulo .MediaSlider LI { float: left; margin-bottom: 0; font-size: 1em; padding-left: 0; background: none; position: relative;}
 .Articulo .MediaSlider FIGCAPTION {right: auto; left: 0; width: 82%; padding-left: 2%; padding-right: 16%;}
-.Articulo .Media .Control { position: absolute; bottom: 0; z-index: 100; width: 50px; height: 31px; font-size: 2.2em; line-height: 22px; color: #3a424e; background: #FFFFFF; display: block; text-align: center; padding-top: 9px; }
+.Articulo .Media .Control { position: absolute; bottom: 0; z-index: 100; width: 50px; height: 31px; font-size: 2.2em; line-height: 22px; color: #2b4e37; background: #FFFFFF; display: block; text-align: center; padding-top: 9px; }
 .Articulo .Media .Prev { right: 52px;}
 .Articulo .Media .Next { right: 0}
 .Articulo H4 { font-size: 2em; line-height: 22px; color: #89b82d; margin-bottom: 15px;}
@@ -320,7 +320,7 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .Row .NotasRelacionadas { float: none; width: 100%; margin-left: 0; display: none; margin-bottom: 0}
 .Articulo .Etiquetas { color: #2c3e4f; }
 .Articulo .Etiquetas P { font: 1.5em/17px "arvoregular", Arial, Helvetica, sans-serif; }
-.Articulo .Etiquetas P A { display: inline-block; background: #d5eba9; color: #2c3e4f; padding: 3px 6px; margin-left: 2px; margin-bottom: 5px; }
+.Articulo .Etiquetas P A { display: inline-block; background: #f6f5c5; color: #000; padding: 3px 6px; margin-left: 2px; margin-bottom: 5px; }
 .Articulo .Comentarios { width: 100%; float: none; clear: left; overflow: hidden; margin-top: 20px;}
 .Articulo .Comentarios H4 { background: #fbd206; color: #fff; padding: 6px 10px; font: 1.8em/20px "arvobold", Arial, Helvetica, sans-serif; text-transform: uppercase; }
 
@@ -353,7 +353,7 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Escudos .Control:hover {color: rgba(44,62,79,1);}
 .Escudos .Prev { left: -3%;}
 .Escudos .Next { right: -3%;}
-.TemasHead { font-size: 3.6em; line-height: 40px; text-transform: uppercase; color: #2c3e4f; text-align: center; padding-top: 15px; }
+.TemasHead { font-size: 3.6em; line-height: 40px; text-transform: uppercase; color: #000; text-align: center; padding-top: 15px; }
 
 /*EQUIPO*/
 .Equipo { width: 100%; text-align: left; margin-bottom: 20px; overflow: hidden;}
@@ -361,9 +361,9 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Equipo .Inner { position: relative; left: -50%; overflow: hidden;}
 .Equipo .Head FIGURE { float: left; margin-right: 26px;}
 .Equipo .Head .Data { float: left;}
-.Equipo .Head H2 { font-size: 4em; line-height: 42px; text-transform: uppercase; color: #2c3e4f; margin-bottom: 8px; }
-.Equipo .Head P { font: 1.3em/21px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; }
-.Equipo .Head P A { color: #ff420a}
+.Equipo .Head H2 { font-size: 4em; line-height: 42px; text-transform: uppercase; color: #000; margin-bottom: 8px; }
+.Equipo .Head P { font: 1.3em/21px 'ubunturegular', Arial, Helvetica, sans-serif; color: #000; }
+.Equipo .Head P A { color: #86b52a}
 .Equipo .Head P A:hover { text-decoration: underline;}
 .Equipo .Trigger { width: 100%; clear: left; text-align: center; border-top: 1px solid #e7ebee; padding-bottom: 5px;}
 .Equipo .Trigger .ShowPlantel { display: block; margin: 0 auto; width: 83px; font: 1.1em/18px 'ubuntumedium', Arial, Helvetica, sans-serif; color: #2c3e4f; background: #FFFFFF; height: 18px; border-top: 1px solid #FFFFFF; border-right: 1px solid #e7ebee; border-bottom: 1px solid #e7ebee; border-left: 1px solid #e7ebee; text-transform: uppercase; text-align: center; border-radius: 0px 0px 4px 4px; -webkit-box-shadow: 0 3px 2px 0 rgba(208,215,221,0.3); box-shadow: 0px 3px 2px 0px rgba(208,215,221,0.3); position: relative; margin-top: -1px; cursor: pointer; }
@@ -378,22 +378,22 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 
 /*404*/
 .Msg404 H2 { font-size: 3.6em; line-height: 38px; color: #2c3e4f; margin-bottom: 30px; margin-top: 20px; }
-.Msg404 P { font: 1.4em/16px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; background: #e4ebf1; padding: 20px; }
+.Msg404 P { font: 1.4em/16px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; background: #e2e4e6; padding: 20px; }
 .Msg404 P A {color: #2c3e4f; text-decoration: underline}
 
 /*NUEVA PASS*/
 .NuevaClave { float: left; width: 91.9632%; padding-right: 3.7887%; border-right: 1px solid #e4e7e9; margin-bottom: 40px;}
 .NuevaClave H2 { font-size: 3em; line-height: 32px; color: #3a424e; margin-bottom: 30px; }
-.NuevaClave FIELDSET { background: #e4ebf1; padding: 35px 30px 20px; text-align: center }
+.NuevaClave FIELDSET { background: #e2e4e6; padding: 35px 30px 20px; text-align: center }
 .NuevaClave P { border-bottom: 1px solid #fff; padding-bottom: 15px;}
-.NuevaClave INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #2c3e4f; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 15px; }
-.NuevaClave INPUT[type="submit"] {font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #ff420a; border: none; text-transform: uppercase; height: 35px; width: 102px; margin-top: 20px; border-radius: 6px; }
-.NuevaClave INPUT[type="submit"]:hover { background: #d33507}
+.NuevaClave INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #808285; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 15px; }
+.NuevaClave INPUT[type="submit"] {font: 1.2em 'arvobold', Arial, Helvetica, sans-serif; color: #FFF; background: #94c23a; border: none; text-transform: uppercase; height: 35px; width: 102px; margin-top: 20px; border-radius: 6px; }
+.NuevaClave INPUT[type="submit"]:hover { background: #9dd039}
 
 /*RESULTADOS*/
 .ResultadoBusqueda { float: left; width: 95.7520%; margin-bottom: 40px;}
-.ResultadoBusqueda H2 { font-size: 3.6em; line-height: 38px; color: #3a424e; margin-bottom: 25px; }
-.ResultadoBusqueda .Msg { background: #e4ebf1; padding: 20px; color: #2c3e4f; margin-bottom: 5px;}
+.ResultadoBusqueda H2 { font-size: 3.6em; line-height: 38px; color: #000; margin-bottom: 25px; }
+.ResultadoBusqueda .Msg { background: #e2e4e6; padding: 20px; color: #2c3e4f; margin-bottom: 5px;}
 .ResultadoBusqueda .Msg P { font: 1.4em/16px 'ubunturegular', Arial, Helvetica, sans-serif; }
 .ResultadoBusqueda .Msg P STRONG { font-weight: normal; font-family: "ubuntubold", Arial, Helvetica, sans-serif}
 .ResultadoBusqueda .Msg .Palabra { color: #ff420a;}
@@ -405,12 +405,12 @@ FOOTER { background: #2b4e37; min-height: 97px; border-top: 1px solid #dddddd; w
 .Resultado P { font: 1.1em/13px "open_sansregular", Arial, Helvetica, sans-serif; color: #3e4c59; margin-bottom: 15px; }
 .Resultado P I { margin-left: 8px; font-size: 1.2em;}
 .Resultado H4 { font: 1.2em/14px "ubuntubold", Arial, Helvetica, sans-serif; color: #2c3e4f; }
-.Resultado H4 A { color: #2c3e4f; background: #abd854; display: inline-block; padding: 6px 12px 3px; margin-bottom: 15px; }
-.Resultado H4 A:hover { background: #bee76f;}
+.Resultado H4 A { color: #fff; background: #89b82d; display: inline-block; padding: 6px 12px 3px; margin-bottom: 15px; }
+.Resultado H4 A:hover { background: #9dd039;}
 .Resultado H3 { font-size: 2.5em; line-height: 28px; color: #2c3e4f; }
-.Resultado H3 A {color: #2c3e4f;}
+.Resultado H3 A {color: #000;}
 .Resultado H3 A:hover { text-decoration: underline;}
-.Resultado .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2b4e37; text-align: center; padding-top: 10px; }
+.Resultado .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: rgba(253,217,19,0.7); text-align: center; padding-top: 10px; }
 .Resultado .Fotos I { font-size: 1.8em; line-height: 18px; color: #FFFFFF; }
 .Resultado .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2b4e37; text-align: center; padding-top: 6px; }
 .Resultado .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }

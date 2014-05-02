@@ -133,33 +133,36 @@ $(function(){
 	$("a.anchorLink").anchorAnimate();
 	
 	/*PLACEHOLDER*/
-	if(!$.support.placeholder) { 
-		var active = document.activeElement;
-		$(':text').focus(function () {
-			if ($(this).attr('placeholder') != '' && $(this).val() == $(this).attr('placeholder')) {
-				$(this).val('').removeClass('hasPlaceholder');
-			}
-		}).blur(function () {
-			if ($(this).attr('placeholder') != '' && ($(this).val() == '' || $(this).val() == $(this).attr('placeholder'))) {
-				$(this).val($(this).attr('placeholder')).addClass('hasPlaceholder');
-			}
-		});
-		$(':text').blur();
-		$(active).focus();
-		$('form').submit(function () {
-			$(this).find('.hasPlaceholder').each(function() { $(this).val(''); });
-		});
-		
-		function fixDiv() {
-		  var $getFixed = $('.FixedHead'); 
-		  if ($(window).scrollTop() > 100) 
-			$getFixed.css({'position': 'fixed', 'top': '0px'}); 
-		  else
-			$getFixed.css({'position': 'relative', 'top': 'auto'});
+	$('[placeholder]').focus(function() {
+	  var input = $(this);
+	  if (input.val() == input.attr('placeholder')) {
+		input.val('');
+		input.removeClass('placeholder');
+	  }
+	}).blur(function() {
+	  var input = $(this);
+	  if (input.val() == '' || input.val() == input.attr('placeholder')) {
+		input.addClass('placeholder');
+		input.val(input.attr('placeholder'));
+	  }
+	}).blur().parents('form').submit(function() {
+	  $(this).find('[placeholder]').each(function() {
+		var input = $(this);
+		if (input.val() == input.attr('placeholder')) {
+		  input.val('');
 		}
-		$(window).scroll(fixDiv);
-		fixDiv();
+	  })
+	});
+	
+	function fixDiv() {
+	  var $getFixed = $('.FixedHead'); 
+	  if ($(window).scrollTop() > 100) 
+		$getFixed.css({'position': 'fixed', 'top': '0px'}); 
+	  else
+		$getFixed.css({'position': 'relative', 'top': 'auto'});
 	}
+	$(window).scroll(fixDiv);
+	fixDiv();
 	
 	/*COLUMNAS*/
 	function equalHeight(group) {

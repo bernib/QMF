@@ -372,9 +372,10 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Equipo .Active .fa-chevron-down { display: none}
 .Equipo .Active .fa-chevron-up { display: inline-block}
 .Equipo .Listado { clear: left; padding-bottom: 29px; overflow: hidden; padding-top: 25px; border-top: 1px solid #e7ebee; display: none;}
-.Equipo .Listado LI { width: 33.33%; float: left; font: 1.2em/24px 'ubuntubold', Arial, Helvetica, sans-serif; color: #2c3e4f; text-transform: uppercase; margin-bottom: 1px; }
+.Equipo .Listado LI { width: 33.33%; float: left; font: 1.1em/24px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; text-transform: uppercase; margin-bottom: 1px; }
 .Equipo .Listado SPAN { display: inline-block; height: 24px; width: 29px; margin-right: 1px; background: #abd854; text-align: center;}
-.Equipo .Listado STRONG { font-weight: normal; display: inline-block; height: 24px; padding-left: 7px; width: 82px; background: #2c3e4f; color: #FFFFFF; margin-right: 8px; }
+.Equipo .Listado STRONG { font-weight: normal; display: inline-block; height: 24px; padding-left: 7px; width: 66px; background: #2c3e4f; color: #FFFFFF; margin-right: 4px; }
+.Equipo .Listado .Dt {width: 102px; padding-left: 3px; background: #ff420a; color: #fff;}
 
 /*404*/
 .Msg404 H2 { font-size: 3.6em; line-height: 38px; color: #2c3e4f; margin-bottom: 30px; margin-top: 20px; }
@@ -415,6 +416,32 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Resultado .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2c3e4f; text-align: center; padding-top: 6px; }
 .Resultado .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
 
-
+/*AUTOR*/
+.Autor { float: left; width: 95.7520%; margin-bottom: 40px;}
+.Autor LI { padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid #d2d7db; overflow: hidden;}
+.Autor .Texto { float: left; width: 100%;}
+.Autor FIGURE + .Texto { float: left; width: 63.4292%;}
+.Autor .Texto H2 { font-size: 3.6em; line-height: 38px; color: #2c3e4f; margin-bottom: 10px; }
+.Autor .Texto P { font-size: 1.6em; line-height: 23px; color: #2c3e4f; }
+.Autor .Texto .Social { font-size: 2.8em; line-height: 30px; margin-right: 10px; }
+.Autor .Texto .FB I { color: #3b579d;}
+.Autor .Texto .TW I { color: #00b1eb;}
+.Autor .Texto .IN I { color: #0085b0;}
+.Autor FIGURE { float: left; margin-right: 2.6378%; width: 33.9328%; position: relative;}
+.Autor FIGURE IMG { width: 100%; height: auto;}
+.Autor .Data { float: left; width: 100%;}
+.Autor FIGURE + .Data { float: left; width: 63.4292%;}
+.Autor P { font: 1.1em/13px "open_sansregular", Arial, Helvetica, sans-serif; color: #3e4c59; margin-bottom: 15px; }
+.Autor P I { margin-left: 8px; font-size: 1.2em;}
+.Autor H4 { font: 1.2em/14px "ubuntubold", Arial, Helvetica, sans-serif; color: #2c3e4f; }
+.Autor H4 A { color: #fff; background: #89b82d; display: inline-block; padding: 6px 12px 3px; margin-bottom: 15px; }
+.Autor H4 A:hover { background: #9dd039;}
+.Autor H3 { font-size: 2.5em; line-height: 28px; color: #2c3e4f; }
+.Autor H3 A {color: #000;}
+.Autor H3 A:hover { text-decoration: underline;}
+.Autor .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: rgba(253,217,19,0.7); text-align: center; padding-top: 10px; }
+.Autor .Fotos I { font-size: 1.8em; line-height: 18px; color: #FFFFFF; }
+.Autor .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2b4e37; text-align: center; padding-top: 6px; }
+.Autor .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
 
 

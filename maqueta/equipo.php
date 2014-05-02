@@ -60,6 +60,7 @@
 			</div>
 		</div>
 		<ul class="Listado" id="ListadoEquipo">
+			<li><strong class="Dt">DIRECTOR TECNICO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
@@ -87,7 +88,7 @@
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span> <strong>ARQUERO</strong> Marco Fabian "Marco Fabian" de la Mora</li>
 			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
 			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
 			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>

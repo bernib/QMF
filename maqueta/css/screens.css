@@ -264,6 +264,8 @@ SECTION,
 	.Resultado .Videos { background: #8bad52; width: 28px; height: 18px; padding: 6px 0 0; text-align: center }
 	.Resultado .Fotos I {font-size: 1.4em; line-height: 16px;}
 	.Resultado .Videos I {font-size: 1.6em; line-height: 16px;}
+	.Autor .Texto H2 {font: 3em/32px 'arvoregular', Arial, Helvetica, sans-serif;}
+	.Autor .Texto P { margin-bottom: 10px; font-size: 1.4em; line-height: 19px}
 }
 @media screen and (max-width: 560px) {
 	.Articulo .SocialBar SPAN { display: none;}
@@ -301,6 +303,8 @@ SECTION,
 	.Resultado H3 {font: 1.5em/18px 'arvoregular', Arial, Helvetica, sans-serif;}
 	.Resultado P { margin-bottom: 5px;}
 	.Resultado H4 A { font: 1.1em/13px 'ubunturegular',Arial,Helvetica,sans-serif; margin-bottom: 5px; }
+	.Autor .Texto H2 {font: 2em/22px 'arvoregular', Arial, Helvetica, sans-serif;}
+	.Autor .Texto P { margin-bottom: 5px; font-size: 1.3em; line-height: 17px;}
 }
 @media screen and (max-width: 350px) {
 	.Ads { width: 104%; position: relative; left: -2%; margin-right: -2%;}
@@ -310,8 +314,10 @@ SECTION,
 	.Noticia H4 { width: 50%;}
 	.Equipo .Head FIGURE { margin-right: 12px;}
 	.Equipo .Head H2 {font-size: 2.5em; line-height: 28px;}
-	.Equipo .Listado LI { font-size: 1.1em;}
+	.Equipo .Listado LI { font-size: 1em;}
 	.Equipo .Listado LI SPAN { width: 16px;}
-	.Equipo .Listado LI STRONG { width: 72px;}
+	.Equipo .Listado STRONG { width: 58px;}
+	.Equipo .Listado .Dt { width: auto; padding-left: 2px; padding-right: 1px; font-size: 0.9em;}
+	.Autor .Texto P {font-size: 1.2em; line-height: 15px;}
 }
 

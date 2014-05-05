@@ -78,7 +78,7 @@ HEADER .Sponsor IMG { float: left;}
 .Login .FBconnect A { background: url(../../mundial/images/layout/sprite.png) no-repeat -70px -108px; text-indent: -5000px; display: block; margin: 0px auto; height: 34px; width: 226px; }
 .Login H4 { color: #000; text-align: center; font: 1.5em/17px 'ubuntumedium', Arial, Helvetica, sans-serif; margin-bottom: 18px; }
 .Login INPUT[type="text"] { font: 1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #808285; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 10px; }
-.Login .Opciones { float: left; padding-top: 8px; font: 1.3em/22px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; padding-bottom: 12px;}
+.Login .Opciones { float: left; padding-top: 8px; font: 1.3em/22px 'ubunturegular', Arial, Helvetica, sans-serif; color: #000; padding-bottom: 12px;}
 .Login .Opciones SPAN { text-decoration: underline; cursor: pointer;}
 .Login .Opciones:hover SPAN { text-decoration: none}
 .Login .Opciones A { color: #000; text-decoration: underline}

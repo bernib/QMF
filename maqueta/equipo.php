@@ -61,39 +61,39 @@
 		</div>
 		<ul class="Listado" id="ListadoEquipo">
 			<li><strong class="Dt">DIRECTOR TECNICO</strong> <a href="#">Luis Alberto Cárdenas López</a></li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
-			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
-			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
-			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
-			<li><span>31</span> <strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Marco Fabian "Marco Fabian" de la Mora</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>1</span> <strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
-			<li><span>15</span> <strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>31</span><strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span><strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span><strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>31</span><strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span><strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>31</span><strong>DEFENSOR</strong> "Victor Ramos" Ferreira</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
+			<li><span>1</span><strong>ARQUERO</strong> Marco Fabian "Marco Fabian" de la Mora</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>1</span><strong>ARQUERO</strong> Jonathan Emmanuel Orozco</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
+			<li><span>15</span><strong>DEFENSOR</strong> José María Basanta</li>
 		</ul>
 		<div class="Trigger">
 			<span class="ShowPlantel">Plantel <i class="fa fa-chevron-down"></i><i class="fa fa-chevron-up"></i></span>

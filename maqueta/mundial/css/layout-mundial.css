@@ -376,7 +376,7 @@ FOOTER { background: #000; min-height: 97px; border-top: 1px solid #dddddd; widt
 .Equipo .Listado LI A {color: #2c3e4f;}
 .Equipo .Listado LI A:hover { text-decoration: underline;}
 .Equipo .Listado SPAN { display: inline-block; height: 24px; width: 29px; margin-right: 1px; background: #abd854; text-align: center;}
-.Equipo .Listado STRONG { font-weight: normal; display: inline-block; height: 24px; padding-left: 7px; width: 66px; background: #2b4e37; color: #FFFFFF; margin-right: 4px; }
+.Equipo .Listado STRONG { font-weight: normal; display: inline-block; height: 24px; padding-left: 7px; width: 68px; background: #2b4e37; color: #FFFFFF; margin-right: 4px; }
 .Equipo .Listado .Dt {width: 102px; padding-left: 3px; background: #ff420a; color: #fff;}
 
 /*404*/
@@ -447,7 +447,7 @@ FOOTER { background: #000; min-height: 97px; border-top: 1px solid #dddddd; widt
 .Autor .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
 
 /*FICHA JUGADOR*/
-.FichaJugador { position: absolute; left: 0; top: 195px; background: #2f2f2f; min-height: 670px; width: 100%; z-index: 10; overflow: hidden;}
+.FichaJugador { position: absolute; left: 0; top: 0; /*top: 195px;*/ background: #2f2f2f; min-height: 670px; width: 100%; z-index: 1000; overflow: hidden; display: none; height: 100%;}
 .FichaJugador .Liga { background: #1f1f1f; height: 48px;}
 .FichaJugador .Liga H4 { font: 1.4em/17px 'ubunturegular', Arial, Helvetica, sans-serif; text-transform: uppercase; color: #FFFFFF; margin-left: 5.9829%; padding-top: 16px;}
 .FichaJugador .Liga IMG { margin-right: 12px;}

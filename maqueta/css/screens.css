@@ -140,7 +140,7 @@ SECTION,
 	.FichaJugador .Slider .Next { right: 0;}
 	.Ficha .Prev { left: 0;}
 	.Ficha .Next { right: 0;}
-	.FichaJugador { top: 95px;}
+	/*.FichaJugador { top: 95px;}*/
 }
 @media screen and (max-width: 890px) {
 	.RecibirNews FIELDSET { margin-top: 15px;}
@@ -161,7 +161,7 @@ SECTION,
 	/**/
 	.Articulo .SocialBar { float: left; width: 100%; margin-top: 20px;}
 	.Articulo .SocialBar LI { margin-left: 0; margin-right: 5px;}
-	.FichaJugador { top: 54px;}
+	/*.FichaJugador { top: 54px;}*/
 }
 @media screen and (max-width: 720px) {
 	.TopAccesos .Buscador .SearchInput,
@@ -275,12 +275,21 @@ SECTION,
 	.Resultado H3 {font: 1.7em/21px 'arvoregular', Arial, Helvetica, sans-serif;}
 	.Resultado P { margin-bottom: 10px;}
 	.Resultado H4 A { background: none; color: #76a222; font: 1.2em/14px 'ubunturegular',Arial,Helvetica,sans-serif; padding: 0px; margin-bottom: 10px; }
+	.Resultado H4 A:hover { background: none}
 	.Resultado .Fotos ,
 	.Resultado .Videos { background: #8bad52; width: 28px; height: 18px; padding: 6px 0 0; text-align: center }
 	.Resultado .Fotos I {font-size: 1.4em; line-height: 16px;}
 	.Resultado .Videos I {font-size: 1.6em; line-height: 16px;}
 	.Autor .Texto H2 {font: 3em/32px 'arvoregular', Arial, Helvetica, sans-serif;}
 	.Autor .Texto P { margin-bottom: 10px; font-size: 1.4em; line-height: 19px}
+	.Autor H3 {font: 1.7em/21px 'arvoregular', Arial, Helvetica, sans-serif;}
+	.Autor P { margin-bottom: 10px;}
+	.Autor H4 A { background: none; color: #76a222; font: 1.2em/14px 'ubunturegular',Arial,Helvetica,sans-serif; padding: 0px; margin-bottom: 10px; }
+	.Autor H4 A:hover { background: none}
+	.Autor .Fotos ,
+	.Autor .Videos { background: #8bad52; width: 28px; height: 18px; padding: 6px 0 0; text-align: center }
+	.Autor .Fotos I {font-size: 1.4em; line-height: 16px;}
+	.Autor .Videos I {font-size: 1.6em; line-height: 16px;}
 	/**/
 	.Ficha FIGURE { margin-left: 6%; margin-right: 6%; width: 88%; margin-bottom: 20px;}
 	.Ficha .Datos {margin-left: 6%; margin-right: 6%; width: 88%;}
@@ -329,6 +338,7 @@ SECTION,
 	.Resultado H4 A { font: 1.1em/13px 'ubunturegular',Arial,Helvetica,sans-serif; margin-bottom: 5px; }
 	.Autor .Texto H2 {font: 2em/22px 'arvoregular', Arial, Helvetica, sans-serif;}
 	.Autor .Texto P { margin-bottom: 5px; font-size: 1.3em; line-height: 17px;}
+	.Autor H4 A { font: 1.1em/13px 'ubunturegular',Arial,Helvetica,sans-serif; margin-bottom: 5px; }
 }
 @media screen and (max-width: 350px) {
 	.Ads { width: 104%; position: relative; left: -2%; margin-right: -2%;}

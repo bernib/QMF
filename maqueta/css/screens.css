@@ -135,6 +135,12 @@ SECTION,
 	.Escudos .Prev { left: 1%;}
 	.Escudos .Next { right: 1%}
 	.NuevaClave {border-right: none; padding-right: 0; width: 100%}
+	.FichaJugador .Contenedor {width: 92%;}
+	.FichaJugador .Slider .Prev { left: 0;}
+	.FichaJugador .Slider .Next { right: 0;}
+	.Ficha .Prev { left: 0;}
+	.Ficha .Next { right: 0;}
+	.FichaJugador { top: 95px;}
 }
 @media screen and (max-width: 890px) {
 	.RecibirNews FIELDSET { margin-top: 15px;}
@@ -155,11 +161,18 @@ SECTION,
 	/**/
 	.Articulo .SocialBar { float: left; width: 100%; margin-top: 20px;}
 	.Articulo .SocialBar LI { margin-left: 0; margin-right: 5px;}
+	.FichaJugador { top: 54px;}
 }
 @media screen and (max-width: 720px) {
 	.TopAccesos .Buscador .SearchInput,
 	.TopAccesos .Buscador:hover .SearchInput {width: 170px;}
 	.Equipo .Listado LI { width: 100%;}
+	.FichaJugador .Liga H4 { margin-left: 0}
+	.FichaJugador .Contenedor { margin-left: 2%; width: 94%}
+	.FichaJugador .Slider .Prev { left: -1.5%;}
+	.FichaJugador .Slider .Next { right: -1.5%;}
+	.Ficha .Prev { left: -1.5%;}
+	.Ficha .Next { right: -1.5%}
 }
 @media screen and (max-width: 650px) {
 	.TopAccesos LI:first-child { display: none}
@@ -266,11 +279,20 @@ SECTION,
 	.Resultado .Videos I {font-size: 1.6em; line-height: 16px;}
 	.Autor .Texto H2 {font: 3em/32px 'arvoregular', Arial, Helvetica, sans-serif;}
 	.Autor .Texto P { margin-bottom: 10px; font-size: 1.4em; line-height: 19px}
+	/**/
+	.Ficha FIGURE { margin-left: 6%; margin-right: 6%; width: 88%; margin-bottom: 20px;}
+	.Ficha .Datos {margin-left: 6%; margin-right: 6%; width: 88%;}
+	.Ficha .Ads { text-align: center;}
 }
 @media screen and (max-width: 560px) {
 	.Articulo .SocialBar SPAN { display: none;}
 	.Articulo .Picture FIGCAPTION { width: 75%; padding-top: 6px; padding-bottom: 6px;}
 	.Articulo .MediaSlider FIGCAPTION { padding-right: 26%; width: 72%;}
+	.Ficha FIGURE { margin-left: 0; margin-right: 0; width: 100%;}
+	.Ficha .Datos {margin-left: 0; margin-right: 0; width: 100%;}
+	.Ficha .Control { top: 140px;}
+	.Ficha .Prev { left: 1%;}
+	.Ficha .Next { right: 1%;}
 }
 @media screen and (max-width: 482px) {
 	.Cobertura H4 { top: 230px;}

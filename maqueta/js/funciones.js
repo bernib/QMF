@@ -62,10 +62,29 @@ $(function(){
 	});
 	
 	$('.tooltip').tooltipster();
+	$('.tooltip2').tooltipster({
+		theme: 'tooltipster-ficha'
+	});
 	
 	$(".ShowPlantel").click(function(){
 		$(this).toggleClass("Active");
 		$("#ListadoEquipo").slideToggle();
+	});
+	
+	/*FICHA*/
+	$("#ListadoEquipo A").click(function(e){
+		e.preventDefault();
+		$(".FichaJugador").show();
+		StartFicha();
+	});
+	
+	$(".FichaJugador .Cerrar").click(function(){
+		$(".FichaJugador").hide();
+	});
+	
+	$("#FichaSlider LI").click(function(){
+		$("#FichaSlider LI").removeClass("Active");
+		$(this).addClass("Active");
 	});
 	
 	/*MENU MOBILE*/
@@ -87,7 +106,7 @@ $(function(){
 		scroll: {
             items: 1,
             easing: "swing",
-            duration: 1000,                         
+            duration: 500,                         
             pauseOnHover: true
         },
 		prev: {
@@ -102,6 +121,35 @@ $(function(){
 			play: false	
 		}
     });
+	
+	/*FICHA JUGADORES*/
+	function StartFicha(){
+		$('#FichaSlider').carouFredSel({
+			//responsive: true,
+			width: "100%",
+			items: {
+				minimum	: 16
+			},
+			scroll: {
+				items: 1,
+				easing: "swing",
+				duration: 500,                         
+				pauseOnHover: true
+			},
+			prev: {
+				button: ".Prev",
+				items: 1	
+			},
+			next: {
+				button: ".Next",
+				items: 1	
+			},
+			auto: {
+				play: false	
+			}
+		});
+	}
+	StartFicha();
 	
 	/*ARTICULO SLIDER FOTOSS*/
 	$(".MediaSlider").carouFredSel({

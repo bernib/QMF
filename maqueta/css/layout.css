@@ -373,6 +373,8 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Equipo .Active .fa-chevron-up { display: inline-block}
 .Equipo .Listado { clear: left; padding-bottom: 29px; overflow: hidden; padding-top: 25px; border-top: 1px solid #e7ebee; display: none;}
 .Equipo .Listado LI { width: 33.33%; float: left; font: 1.1em/24px 'ubunturegular', Arial, Helvetica, sans-serif; color: #2c3e4f; text-transform: uppercase; margin-bottom: 1px; }
+.Equipo .Listado LI A {color: #2c3e4f;}
+.Equipo .Listado LI A:hover { text-decoration: underline;}
 .Equipo .Listado SPAN { display: inline-block; height: 24px; width: 29px; margin-right: 1px; background: #abd854; text-align: center;}
 .Equipo .Listado STRONG { font-weight: normal; display: inline-block; height: 24px; padding-left: 7px; width: 66px; background: #2c3e4f; color: #FFFFFF; margin-right: 4px; }
 .Equipo .Listado .Dt {width: 102px; padding-left: 3px; background: #ff420a; color: #fff;}
@@ -444,4 +446,34 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Autor .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2b4e37; text-align: center; padding-top: 6px; }
 .Autor .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
 
-
+/*FICHA JUGADOR*/
+.FichaJugador { position: absolute; left: 0; top: 195px; background: #2f2f2f; min-height: 670px; width: 100%; z-index: 10; overflow: hidden;}
+.FichaJugador .Liga { background: #1f1f1f; height: 48px;}
+.FichaJugador .Liga H4 { font: 1.4em/17px 'ubunturegular', Arial, Helvetica, sans-serif; text-transform: uppercase; color: #FFFFFF; margin-left: 5.9829%; padding-top: 16px;}
+.FichaJugador .Liga IMG { margin-right: 12px;}
+.FichaJugador .Slider { height: 77px; border-bottom: 1px solid #3f3f3f; border-top: 1px solid #3f3f3f; background: #313131;}
+.FichaJugador .Wrapper { position: relative;}
+.FichaJugador .Contenedor { max-width: 1040px; margin-left: 5.9829%; width: 90%;}
+.FichaJugador .Slider UL { height: 63px; overflow: hidden; float: left; margin-top: 7px;}
+.FichaJugador .Slider LI { float: left; width: 65px; height: 63px; overflow: hidden; position: relative;}
+.FichaJugador .Slider .Active .Marco { position: absolute; border: 2px solid #fdd913; width: 53px; height: 59px; left: 0; top: 0;}
+.FichaJugador .Slider .Control { position: absolute; top: 20px; display: block; font-size: 4em; line-height: 40px; color: #fdd913; opacity: .5; }
+.FichaJugador .Slider .Control:hover { opacity: 1}
+.FichaJugador .Slider .Prev { left: 2%;}
+.FichaJugador .Slider .Next { right: 2%;}
+.Ficha { padding-top: 35px; float: none; clear: left; overflow: hidden; position: relative; padding-bottom: 40px;}
+.Ficha FIGURE { width: 42.7350%; float: left; margin-right: 2.5641%; margin-left: 5.9829%; }
+.Ficha FIGURE IMG { width: 100%; height: auto}
+.Ficha .Datos { float: left; width: 42.7350%; }
+.Ficha .Ads { text-align: left;}
+.Ficha H3 { font-size: 2.8em; line-height: 30px; color: #fdd913; margin-bottom: 15px;}
+.Ficha P { font: 1.4em/26px 'ubunturegular', Arial, Helvetica, sans-serif; color: #FFFFFF; margin-bottom: 25px; }
+.Ficha P STRONG { font-family: 'ubuntubold', Arial, Helvetica, sans-serif;}
+.Ficha P A { color: #41d5ff;}
+.Ficha .fa-twitter { font-size: 1.4em;}
+.Ficha .Control { position: absolute; top: 210px; display: block; color: #fdd913; font-size: 7em; line-height: 70px; opacity: .5; }
+.Ficha .Control:hover { opacity: 1}
+.Ficha .Prev { left: 1.5%;}
+.Ficha .Next { right: 1.5%;}
+.FichaJugador .Cerrar { position: absolute; top: 10px; right: 10px; font-size: 3em; line-height: 30px; color: #FFFFFF; opacity: .5; cursor: pointer}
+.FichaJugador .Cerrar:hover { opacity: 1;}

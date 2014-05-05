@@ -60,7 +60,7 @@
 			</div>
 		</div>
 		<ul class="Listado" id="ListadoEquipo">
-			<li><strong class="Dt">DIRECTOR TECNICO</strong> Luis Alberto Cárdenas López</li>
+			<li><strong class="Dt">DIRECTOR TECNICO</strong> <a href="#">Luis Alberto Cárdenas López</a></li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span> <strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
@@ -101,7 +101,66 @@
 		
 	</div>
 </section>
-
+<!-- FICHA JUJGADOR -->
+<section class="FichaJugador">
+	<div class="Liga">
+		<div class="Wrapper">
+			<h4><img src="images/escudos/mx/mexico.png" width="30" height="17" alt="">Liga mexicana</h4>
+			<span class="Cerrar"><i class="fa fa-times-circle"></i></span>
+		</div>
+	</div>
+	<div class="Slider">
+		<div class="Wrapper">
+			<div class="Contenedor">
+				<ul id="FichaSlider">
+					<li class="Active"><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" class="tooltip2" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+					<li><a href="#" title="Javier Chicharro Hernandez"><img src="images/pics/thumb-57x63.jpg" width="57" height="63" alt=""><span class="Marco"></span></a></li>
+				</ul>
+				<a href="#" class="Control Prev"><i class="fa fa-caret-left"></i></a>
+				<a href="#" class="Control Next"><i class="fa fa-caret-right"></i></a>
+			</div>
+		</div>
+	</div>
+	<div class="Ficha">
+		<div class="Wrapper">
+			<figure><img src="images/pics/jugador-500x480.jpg" width="499" height="479" alt=""></figure>
+			<div class="Datos">
+				<h3>Javier Chicharito Hernandez</h3>
+				<p><strong>Posición:</strong> Delantero<br>
+				<strong>Fecha de nacimiento: </strong>18.04.1988<br>
+				<strong>Peso:</strong> 62 kg.<br>
+				<strong>Estatura:</strong> 1.75 metros<br>
+				<strong>Cantidad de goles Brasil 2014:</strong> -<br>
+				<strong>Cuenta oficial de Twitter:</strong> <a href="#"> <i class="fa fa-twitter"></i>@CH14_</a></p>
+				<div class="Ads">
+					<a href="#"><img src="images/banners/add-300x250.png" width="300" height="250" alt="CABLEVISION HD + FIBERTEL 6 MEGAS Wi-Fi $280"></a>
+				</div>
+			</div>
+			<a href="#" class="Control Prev"><i class="fa fa-caret-left"></i></a>
+			<a href="#" class="Control Next"><i class="fa fa-caret-right"></i></a>
+		</div>
+	</div>
+</section>
+<!-- FIN -->
 <div class="Wrapper">
 	
 	<div class="Container">

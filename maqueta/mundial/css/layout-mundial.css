@@ -46,8 +46,8 @@ HEADER { background: #2b4e37; min-height: 53px; border-bottom: 1px solid #dbeeb8
 .MenuSeccion .Lnks,
 .MenuSeccion LI.Last { display: none}
 .MenuSeccion:hover UL { display: block;}
-HEADER H1 { float: left; margin-top: 5px;}
-HEADER H1 A { display: block; width: 525px; height: 48px; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px 0px; text-indent: -5000px; }
+HEADER H1 { float: left; margin-top: 7px;}
+HEADER H1 A { display: block; width: 405px; height: 46px; background: url(../../mundial/images/layout/sprite.png) no-repeat 0px 0px; text-indent: -5000px; }
 HEADER .Sponsor { display:none; /*float: left; margin-left: 21px; margin-top: 18px;*/}
 HEADER .Sponsor FIGCAPTION { float: left; font: 1.2em/18px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #d8d5d5; margin-right: 8px; }
 HEADER .Sponsor IMG { float: left;}
@@ -128,7 +128,7 @@ FOOTER { background: #000; min-height: 97px; border-top: 1px solid #dddddd; widt
 .Foot .Copy { float: left; margin-top: 15px; margin-left: 13px;}
 .Foot .Copy H4 { background: url(../../mundial/images/layout/sprite.png) no-repeat 0px -50px; text-indent: -5000px; height: 38px; width: 188px; margin-bottom: 10px; }
 .Foot .OtrosSitios { float: right; margin-right: 6px; margin-top: 28px; position: relative;}
-.Foot .OtrosSitios H4 { text-transform: uppercase; color: #FFFFFF; font: 1.1em/22px 'ubunturegular', Arial, Helvetica, sans-serif; background: #455564; float: left; height: 22px; padding-right: 10px; padding-left: 10px; border-radius: 6px; cursor: pointer; display: none; }
+.Foot .OtrosSitios H4 { text-transform: uppercase; color: #FFFFFF; font: 1.1em/22px 'ubunturegular', Arial, Helvetica, sans-serif; background: #58595b; float: left; height: 22px; padding-right: 10px; padding-left: 10px; border-radius: 6px; cursor: pointer; display: none; }
 .Foot .OtrosSitios H4 I { font-size: 1.4em; margin-left: 12px;}
 .Foot .OtrosSitios UL { float: right; margin-bottom: 18px;}
 .Foot .OtrosSitios LI { float: left; margin-left: 19px; font: 1.4em/16px 'ubuntubold', Arial, Helvetica, sans-serif; color: #FFF; text-transform: uppercase; }
@@ -423,8 +423,8 @@ FOOTER { background: #000; min-height: 97px; border-top: 1px solid #dddddd; widt
 .Autor LI { padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid #d2d7db; overflow: hidden;}
 .Autor .Texto { float: left; width: 100%;}
 .Autor FIGURE + .Texto { float: left; width: 63.4292%;}
-.Autor .Texto H2 { font-size: 3.6em; line-height: 38px; color: #2c3e4f; margin-bottom: 10px; }
-.Autor .Texto P { font-size: 1.6em; line-height: 23px; color: #2c3e4f; }
+.Autor .Texto H2 { font-size: 3.6em; line-height: 38px; color: #000; margin-bottom: 10px; }
+.Autor .Texto P { font-size: 1.6em; line-height: 23px; color: #000; }
 .Autor .Texto .Social { font-size: 2.8em; line-height: 30px; margin-right: 10px; }
 .Autor .Texto .FB I { color: #3b579d;}
 .Autor .Texto .TW I { color: #00b1eb;}

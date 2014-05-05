@@ -9,7 +9,7 @@
 <link href="fonts/fonts.css" rel="stylesheet" type="text/css">
 <link href="mundial/css/layout-mundial.css" rel="stylesheet" type="text/css">
 <link href="css/tooltipster.css" rel="stylesheet" type="text/css">
-<link href="css/screens.css" rel="stylesheet" type="text/css">
+<link href="mundial/css/screens-mundial.css" rel="stylesheet" type="text/css">
 <!--[if (gte IE 6)&(lte IE 8)]>
     <script type="text/javascript" src="js/html5shiv.js"></script>
     <script type="text/javascript" src="js/selectivizr-min.js"></script>

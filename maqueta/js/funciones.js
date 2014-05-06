@@ -82,6 +82,15 @@ $(function(){
 		$(".FichaJugador").hide();
 	});
 	
+	document.onkeydown = function(evt) {
+		evt = evt || window.event;
+		if (evt.keyCode == 27) {
+
+				$(".FichaJugador").hide();
+			
+		}
+	};
+	
 	$("#FichaSlider LI").click(function(){
 		$("#FichaSlider LI").removeClass("Active");
 		$(this).addClass("Active");

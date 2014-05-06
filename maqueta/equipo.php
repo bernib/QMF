@@ -1,6 +1,7 @@
 <?php include("inc_head.php"); ?>
 
 <body>
+<a name="Top" id="Top"></a>
 <div class="MainTopBanner">
 	<a href="#"><img src="images/banners/movistar-728x90.jpg" width="728" height="90" alt=""></a>
 </div>
@@ -60,7 +61,7 @@
 			</div>
 		</div>
 		<ul class="Listado" id="ListadoEquipo">
-			<li><strong class="Dt">DIRECTOR TECNICO</strong> <a href="#">Luis Alberto Cárdenas López</a></li>
+			<li><strong class="Dt">DIRECTOR TECNICO</strong> <a href="#Top" class="anchorLink">Luis Alberto Cárdenas López</a></li>
 			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>
 			<li><span>25</span><strong>ARQUERO</strong> Luis Alberto Cárdenas López</li>

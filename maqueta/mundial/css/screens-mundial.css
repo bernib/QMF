@@ -143,6 +143,7 @@ SECTION,
 	.Ficha .Prev { left: 0;}
 	.Ficha .Next { right: 0;}
 	/*.FichaJugador { top: 95px;}*/
+	.FreePage {border-right: none; padding-right: 0; width: 100%}
 }
 @media screen and (max-width: 890px) {
 	.RecibirNews FIELDSET { margin-top: 15px;}
@@ -300,6 +301,8 @@ SECTION,
 	.GruposMundial LI:nth-child(3) { border-right: 1px solid #fff;}
 	.GruposMundial LI:nth-child(4) { border-right: none;}
 	.GruposMundial LI:nth-child(6) { border-right: 1px solid #fff;}
+	/**/
+	.FreePage .Picture FIGCAPTION { font-size: 1.2em; line-height: 14px;}
 }
 @media screen and (max-width: 560px) {
 	.Articulo .SocialBar SPAN { display: none;}
@@ -317,6 +320,7 @@ SECTION,
 	.GruposMundial LI:nth-child(4) { border-right: none;}
 	.GruposMundial LI:nth-child(6) { border-right: none;}
 	.GruposMundial LI:nth-child(8) { border-right: none;}
+	.FreePage .Picture FIGCAPTION { width: 75%; padding-top: 6px; padding-bottom: 6px;}
 }
 @media screen and (max-width: 482px) {
 	.Cobertura H4 { top: 230px;}

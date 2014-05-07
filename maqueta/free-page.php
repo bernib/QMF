@@ -17,11 +17,11 @@
 	<div class="Container">
 	
 		<section class="FreePage">
-			<h2>Términos y condiciones (H2)</h2>
+			<h1>Términos y condiciones (H2)</h1>
 			<p>México.- Con mejor ánimo que otras semanas, luego de su triunfo en la Liga Premier, Manchester United quiere seguir con esa racha positiva cuando visite al Olympiacos griego en la “ida”, de los octavos de final de la Liga de Campeones.</p>
 			<p>Comandado por sus goleadores Robin van Persie y Wayne Rooney, los “red devils” lograron un triunfo 2-0 sobre Crystal Palace, con el cual extendieron a tres sus partidos sin conocer la derrota en un torneo irregular, para ellos en esta campaña.</p>
 			<p>Ahora, el estadio Georgios Karaiskakis en territorio heleno será el lugar donde Manchester United busque ampliar sus buenos resultados, aunque será complicado ante uno de los equipos revelación del certamen continental y que quiere hacer historia.</p>
-			<h3>ESTILO DE TÍTULO H3</h3>
+			<h2>ESTILO DE TÍTULO H3</h2>
 			<p>México.- Con mejor ánimo que otras semanas, luego de su triunfo en la Liga Premier, Manchester United quiere seguir con esa racha positiva cuando visite al Olympiacos griego en la “ida”, de los octavos de final de la Liga de Campeones.</p>
 			<p>Comandado por sus goleadores Robin van Persie y Wayne Rooney, los “red devils” lograron un triunfo 2-0 sobre Crystal Palace, con el cual extendieron a tres sus partidos sin conocer la derrota en un torneo irregular, para ellos en esta campaña.</p>
 			<p>Ahora, el estadio Georgios Karaiskakis en territorio heleno será el lugar donde Manchester United busque ampliar sus buenos resultados, aunque será complicado ante uno de los equipos revelación del certamen continental y que quiere hacer historia.</p>
@@ -39,13 +39,13 @@
 					</ul>
 				</div>
 			</div>
-			<h4>Estilo de título H4</h4>
+			<h3>Estilo de título H4</h3>
 			<ul>
 				<li>Steve Bruce ha desarrollado una importante y notable carrera como técnico del Birmingham City, club con el que ha ascendido en dos ocasiones a la Premier League y del que también formó parte como jugador a su salida del United. Tras su último ascenso, la pasada temporada, las cosas no iban todo lo bien que los propietarios del club entendían que debían de ir, lo que motivó la destitución de Bruce. A los pocos días, el Wigan se hacía con los servicios de un entrenador que se está doctorando en cómo sacar el máximo rendimiento de clubes con una plantilla limitada.			</li>
 				<li> Alex McLeish, fue jugador de Ferguson… en el Aberdeen de la Recopa del 83, llegando a jugar casi 500 partidos con la camiseta del club escocés. Su palmarés como entrenador está fuera de toda duda, tras haber dirigido al Rangers durante cinco temporadas, y haberse hecho cargo de la selección escocesa en su camino a la Eurocopa en el último año, contando en su haber con la histórica victoria en el Parque de los Príncipes ante Francia (0-1).			</li>
 				<li>Bryan Robson. Internacional absoluto en 90 ocasiones y más de 300 partidos con la camiseta del United, Robson incluyó en su formación como técnico el paso por la figura del player-manager, algo que se estila mucho en las islas y que fuera de ellas parece poco menos que un pecado.			</li>
 			</ul>
-			<h5>ESTILO DE TÍTULO H5</h5>
+			<h4>ESTILO DE TÍTULO H5</h4>
 			<p>Incluyó en su formación como técnico el paso por la figura del player-manager, algo que se estila mucho en las islas y que fuera de ellas parece poco menos que un pecado. Incluyó en su formación como técnico el paso por la figura del player-manager, algo que se estila mucho en las islas y que fuera de ellas parece poco menos que un pecado. </p>
 			<p>México.- Con mejor ánimo que otras semanas, luego de su triunfo en la Liga Premier, Manchester United quiere seguir con esa racha positiva cuando visite al Olympiacos griego en la “ida”, de los octavos de final de la Liga de Campeones.</p>
 			<p>Incluyó en su formación como técnico el paso por la figura del player-manager, algo que se estila mucho en las islas y que fuera de ellas parece poco menos que un pecado. Incluyó en su formación como técnico el paso por la figura del player-manager, algo que se estila mucho en las islas y que fuera de ellas parece poco menos que un pecado. </p>

@@ -448,7 +448,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 
 /*FICHA JUGADOR*/
 .Mask { position: fixed; width: 100%; height: 100%; background: #2f2f2f; z-index: 1000; top: 0; left: 0; display: none;}
-.FichaJugador { position: absolute; left: 0; top: 0; background: #2f2f2f; min-height: 670px; width: 100%; z-index: 1000; overflow: hidden; display: none; height: 100%;}
+.FichaJugador { position: fixed; left: 0; top: 0; background: #2f2f2f; min-height: 670px; width: 100%; z-index: 1000; overflow: hidden; display: none; height: 100%;}
 .FichaJugador .Liga { background: #1f1f1f; height: 48px;}
 .FichaJugador .Liga H4 { font: 1.4em/17px 'ubunturegular', Arial, Helvetica, sans-serif; text-transform: uppercase; color: #FFFFFF; margin-left: 5.9829%; padding-top: 16px;}
 .FichaJugador .Liga IMG { margin-right: 12px;}
@@ -491,10 +491,10 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 
 /*FREEPAGE*/
 .FreePage { float: left; width: 91.9632%; padding-right: 3.7887%; border-right: 1px solid #e4e7e9; margin-bottom: 40px;}
-.FreePage H2 { margin-bottom: 20px; font-size: 3em; line-height: 32px; color: #3a424e; }
-.FreePage H3 { margin-bottom: 20px; font-size: 1.8em; line-height: 20px; color: #3a424e; background: #abd854; display: inline-block; padding: 10px; }
-.FreePage H4 { margin-bottom: 20px; font-size: 2em; line-height: 22px; color: #ff420a; }
-.FreePage H5 { margin-bottom: 20px; font: 1.8em/20px 'arvobold', Arial, Helvetica, sans-serif; color: #FFFFFF; background: #2c3e4f; padding: 10px; }
+.FreePage H1 { margin-bottom: 20px; font-size: 3em; line-height: 32px; color: #3a424e; }
+.FreePage H2 { margin-bottom: 20px; font-size: 1.8em; line-height: 20px; color: #3a424e; background: #abd854; display: inline-block; padding: 10px; }
+.FreePage H3 { margin-bottom: 20px; font-size: 2em; line-height: 22px; color: #ff420a; }
+.FreePage H4 { margin-bottom: 20px; font: 1.8em/20px 'arvobold', Arial, Helvetica, sans-serif; color: #FFFFFF; background: #2c3e4f; padding: 10px; }
 .FreePage P { font: 1.4em/22px "open_sansregular", Arial, Helvetica, sans-serif; margin-bottom: 20px;}
 .FreePage LI { margin-bottom: 20px; font: 1.4em/22px "open_sansregular", Arial, Helvetica, sans-serif; padding-left: 20px; background: url(../images/layout/list-arrow.png) no-repeat 0px 6px; }
 .FreePage .Media { overflow: hidden; position: relative; margin-bottom: 26px; z-index: 1;}

@@ -481,9 +481,9 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 
 /*GRUPOS MUNDIAL*/
 .GruposMundial { background: #ebeced; width: 100%; overflow: hidden; border-bottom: 1px solid #fff; margin-top: -2px;}
-.GruposMundial LI { float: left; width: 12.4%; border-left: 1px solid #fff; text-align: center; padding-top: 10px; padding-bottom: 10px;}
+.GruposMundial LI { float: left; width: 12.4%; border-left: 1px solid #fff; text-align: center;}
 .GruposMundial LI:last-child { border-right: 1px solid #fff;}
-.GruposMundial A { display: block}
+.GruposMundial A { display: block; padding-top: 10px; padding-bottom: 10px;}
 .GruposMundial A:hover { background: #e7efd7;}
 .GruposMundial H4 { font: 1.3em/15px 'ubuntumedium', Arial, Helvetica, sans-serif; text-transform: uppercase; color: #76a519; margin-bottom: 6px; }
 .GruposMundial FIGURE { display: inline-block; width: 26px; margin-left: 3px; margin-right: 3px;}

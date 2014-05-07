@@ -157,8 +157,8 @@
 					<a href="#"><img src="images/banners/add-300x250.png" width="300" height="250" alt="CABLEVISION HD + FIBERTEL 6 MEGAS Wi-Fi $280"></a>
 				</div>
 			</div>
-			<a href="#" class="Control Prev"><i class="fa fa-caret-left"></i></a>
-			<a href="#" class="Control Next"><i class="fa fa-caret-right"></i></a>
+			<!--<a href="#" class="Control Prev"><i class="fa fa-caret-left"></i></a>
+			<a href="#" class="Control Next"><i class="fa fa-caret-right"></i></a>-->
 		</div>
 	</div>
 </section>

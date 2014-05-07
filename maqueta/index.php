@@ -11,19 +11,19 @@
 			<a href="#">
 				<h4>Grupo A</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/bra.png" width="26" height="18" alt="">
 					<figcaption>BRA</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/cro.png" width="26" height="18" alt="">
 					<figcaption>CRO</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/mex.png" width="26" height="18" alt="">
 					<figcaption>MEX</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/cam.png" width="26" height="18" alt="">
 					<figcaption>CAM</figcaption>
 				</figure>
 			</a>
@@ -32,19 +32,19 @@
 			<a href="#">
 				<h4>Grupo B</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/esp.png" width="26" height="18" alt="">
 					<figcaption>ESP</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/hol.png" width="26" height="18" alt="">
 					<figcaption>HOL</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/chi.png" width="26" height="18" alt="">
 					<figcaption>CHI</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/aus.png" width="26" height="18" alt="">
 					<figcaption>AUS</figcaption>
 				</figure>
 			</a>
@@ -53,19 +53,19 @@
 			<a href="#">
 				<h4>Grupo C</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/col.png" width="26" height="18" alt="">
 					<figcaption>COL</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/gre.png" width="26" height="18" alt="">
 					<figcaption>GRE</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/cdm.png" width="26" height="18" alt="">
 					<figcaption>CDM</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/jap.png" width="26" height="18" alt="">
 					<figcaption>JAP</figcaption>
 				</figure>
 			</a>
@@ -74,19 +74,19 @@
 			<a href="#">
 				<h4>Grupo D</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/uru.png" width="26" height="18" alt="">
 					<figcaption>URU</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/crc.png" width="26" height="18" alt="">
 					<figcaption>CRC</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/ing.png" width="26" height="18" alt="">
 					<figcaption>ING</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/ita.png" width="26" height="18" alt="">
 					<figcaption>ITA</figcaption>
 				</figure>
 			</a>
@@ -95,19 +95,19 @@
 			<a href="#">
 				<h4>Grupo E</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/sui.png" width="26" height="18" alt="">
 					<figcaption>SUI</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/ecu.png" width="26" height="18" alt="">
 					<figcaption>ECU</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/fra.png" width="26" height="18" alt="">
 					<figcaption>FRA</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/hon.png" width="26" height="18" alt="">
 					<figcaption>HON</figcaption>
 				</figure>
 			</a>
@@ -116,19 +116,19 @@
 			<a href="#">
 				<h4>Grupo F</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/arg.png" width="26" height="18" alt="">
 					<figcaption>ARG</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/bos.png" width="26" height="18" alt="">
 					<figcaption>BOS</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/ira.png" width="26" height="18" alt="">
 					<figcaption>IRA</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/nig.png" width="26" height="18" alt="">
 					<figcaption>NIG</figcaption>
 				</figure>
 			</a>
@@ -137,19 +137,19 @@
 			<a href="#">
 				<h4>Grupo G</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/ale.png" width="26" height="18" alt="">
 					<figcaption>ALE</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/por.png" width="26" height="18" alt="">
 					<figcaption>POR</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/gha.png" width="26" height="18" alt="">
 					<figcaption>GHA</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/usa.png" width="26" height="18" alt="">
 					<figcaption>USA</figcaption>
 				</figure>
 			</a>
@@ -158,19 +158,19 @@
 			<a href="#">
 				<h4>Grupo H</h4>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/bel.png" width="26" height="18" alt="">
 					<figcaption>BEL</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/arl.png" width="26" height="18" alt="">
 					<figcaption>ARL</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/rus.png" width="26" height="18" alt="">
 					<figcaption>RUS</figcaption>
 				</figure>
 				<figure>
-					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<img src="mundial/images/flags/cor.png" width="26" height="18" alt="">
 					<figcaption>COR</figcaption>
 				</figure>
 			</a>

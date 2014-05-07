@@ -5,6 +5,178 @@
 	<a href="#"><img src="images/banners/movistar-728x90.jpg" width="728" height="90" alt=""></a>
 </div>
 <?php include("inc_header.php"); ?>
+<div class="GruposMundial">
+	<ul class="Wrapper">
+		<li>
+			<a href="#">
+				<h4>Grupo A</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>BRA</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>CRO</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>MEX</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>CAM</figcaption>
+				</figure>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<h4>Grupo B</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>ESP</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>HOL</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>CHI</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>AUS</figcaption>
+				</figure>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<h4>Grupo C</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>COL</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>GRE</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>CDM</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>JAP</figcaption>
+				</figure>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<h4>Grupo D</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>URU</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>CRC</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>ING</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>ITA</figcaption>
+				</figure>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<h4>Grupo E</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>SUI</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>ECU</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>FRA</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>HON</figcaption>
+				</figure>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<h4>Grupo F</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>ARG</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>BOS</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>IRA</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>NIG</figcaption>
+				</figure>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<h4>Grupo G</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>ALE</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>POR</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>GHA</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>USA</figcaption>
+				</figure>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<h4>Grupo H</h4>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>BEL</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>ARL</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>RUS</figcaption>
+				</figure>
+				<figure>
+					<img src="images/pics/placeholder.png" width="26" height="18" alt="">
+					<figcaption>COR</figcaption>
+				</figure>
+			</a>
+		</li>
+	</ul>
+</div>
 <div class="Wrapper">
 	<div class="TopBanner">
 		<div class="Desktop"><img src="images/banners/sale-960x37.png" width="960" height="37" alt=""></div>

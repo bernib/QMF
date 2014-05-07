@@ -40,7 +40,7 @@
 			<div class="Media Picture">
 				<figure>
 					<img src="images/pics/pic1-800x448.jpg" width="800" height="448" alt="">
-					<figcaption>Gustavo Alfaro y su confianza ciega en su plantel. Foto: EFE / EPA</figcaption>
+					<figcaption>xxxxGustavo Alfaro y su confianza ciega en su plantel. Foto: EFE / EPA</figcaption>
 				</figure>
 				<div class="SocialTool">
 					<span class="Share"><i class="fa fa-share"></i></span>

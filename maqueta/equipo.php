@@ -103,6 +103,7 @@
 	</div>
 </section>
 <!-- FICHA JUJGADOR -->
+<div class="Mask"></div>
 <section class="FichaJugador">
 	<div class="Liga">
 		<div class="Wrapper">

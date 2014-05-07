@@ -281,7 +281,7 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Articulo .SocialBar .EM SPAN { top: -2px;}
 .Articulo .Media { overflow: hidden; position: relative; margin-bottom: 26px; z-index: 1;}
 .Articulo .Picture IMG { width: 100%; height: auto;}
-.Articulo .Picture FIGCAPTION { position: absolute; right: 0; bottom: 0; font: 1.4em/16px "open_sansregular", Arial, Helvetica, sans-serif; color: #FFFFFF; background: rgba(44,62,79,0.8); padding: 12px 18px; }
+.Articulo .Picture FIGCAPTION { position: absolute; right: 0; bottom: 0; font: 1.4em/16px "open_sansregular", Arial, Helvetica, sans-serif; color: #FFFFFF; background: rgba(44,62,79,0.8); padding: 12px 18px 12px 65px; }
 .Articulo .SocialTool { position: absolute; left: 0; bottom: 0; float: left;}
 .Articulo .SocialTool SPAN { display: block; float: left; height: 30px; background: #fff; width: 51px; margin-right: 1px; color: #2c3e4f; text-align: center; font-size: 2.2em; line-height: 22px; padding-top: 12px; cursor: pointer; }
 .Articulo .SocialTool:hover SPAN { color: #ff420a;}
@@ -419,35 +419,36 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Resultado .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
 
 /*AUTOR*/
-.Autor { float: left; width: 95.7520%; margin-bottom: 40px;}
-.Autor LI { padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid #d2d7db; overflow: hidden;}
-.Autor .Texto { float: left; width: 100%;}
-.Autor FIGURE + .Texto { float: left; width: 63.4292%;}
-.Autor .Texto H2 { font-size: 3.6em; line-height: 38px; color: #2c3e4f; margin-bottom: 10px; }
-.Autor .Texto P { font-size: 1.6em; line-height: 23px; color: #2c3e4f; }
-.Autor .Texto .Social { font-size: 2.8em; line-height: 30px; margin-right: 10px; }
-.Autor .Texto .FB I { color: #3b579d;}
-.Autor .Texto .TW I { color: #00b1eb;}
-.Autor .Texto .IN I { color: #0085b0;}
-.Autor FIGURE { float: left; margin-right: 2.6378%; width: 33.9328%; position: relative;}
-.Autor FIGURE IMG { width: 100%; height: auto;}
-.Autor .Data { float: left; width: 100%;}
-.Autor FIGURE + .Data { float: left; width: 63.4292%;}
-.Autor P { font: 1.1em/13px "open_sansregular", Arial, Helvetica, sans-serif; color: #3e4c59; margin-bottom: 15px; }
-.Autor P I { margin-left: 8px; font-size: 1.2em;}
-.Autor H4 { font: 1.2em/14px "ubuntubold", Arial, Helvetica, sans-serif; color: #2c3e4f; }
-.Autor H4 A { color: #fff; background: #89b82d; display: inline-block; padding: 6px 12px 3px; margin-bottom: 15px; }
-.Autor H4 A:hover { background: #9dd039;}
-.Autor H3 { font-size: 2.5em; line-height: 28px; color: #2c3e4f; }
-.Autor H3 A {color: #000;}
-.Autor H3 A:hover { text-decoration: underline;}
-.Autor .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: rgba(253,217,19,0.7); text-align: center; padding-top: 10px; }
-.Autor .Fotos I { font-size: 1.8em; line-height: 18px; color: #FFFFFF; }
-.Autor .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2b4e37; text-align: center; padding-top: 6px; }
-.Autor .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
+.FichaAutor { float: left; width: 95.7520%; margin-bottom: 40px;}
+.FichaAutor LI { padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid #d2d7db; overflow: hidden;}
+.FichaAutor .Texto { float: left; width: 100%;}
+.FichaAutor FIGURE + .Texto { float: left; width: 63.4292%;}
+.FichaAutor .Texto H2 { font-size: 3.6em; line-height: 38px; color: #2c3e4f; margin-bottom: 10px; }
+.FichaAutor .Texto P { font-size: 1.6em; line-height: 23px; color: #2c3e4f; }
+.FichaAutor .Texto .Social { font-size: 2.8em; line-height: 30px; margin-right: 10px; }
+.FichaAutor .Texto .FB I { color: #3b579d;}
+.FichaAutor .Texto .TW I { color: #00b1eb;}
+.FichaAutor .Texto .IN I { color: #0085b0;}
+.FichaAutor FIGURE { float: left; margin-right: 2.6378%; width: 33.9328%; position: relative;}
+.FichaAutor FIGURE IMG { width: 100%; height: auto;}
+.FichaAutor .Data { float: left; width: 100%;}
+.FichaAutor FIGURE + .Data { float: left; width: 63.4292%;}
+.FichaAutor P { font: 1.1em/13px "open_sansregular", Arial, Helvetica, sans-serif; color: #3e4c59; margin-bottom: 15px; }
+.FichaAutor P I { margin-left: 8px; font-size: 1.2em;}
+.FichaAutor H4 { font: 1.2em/14px "ubuntubold", Arial, Helvetica, sans-serif; color: #2c3e4f; }
+.FichaAutor H4 A { color: #fff; background: #89b82d; display: inline-block; padding: 6px 12px 3px; margin-bottom: 15px; }
+.FichaAutor H4 A:hover { background: #9dd039;}
+.FichaAutor H3 { font-size: 2.5em; line-height: 28px; color: #2c3e4f; }
+.FichaAutor H3 A {color: #000;}
+.FichaAutor H3 A:hover { text-decoration: underline;}
+.FichaAutor .Fotos { display: block; height: 24px; width: 48px; position: absolute; top: 0px; right: 0px; background: rgba(253,217,19,0.7); text-align: center; padding-top: 10px; }
+.FichaAutor .Fotos I { font-size: 1.8em; line-height: 18px; color: #FFFFFF; }
+.FichaAutor .Videos { display: block; height: 28px; width: 48px; position: absolute; top: 0px; right: 0px; background: #2b4e37; text-align: center; padding-top: 6px; }
+.FichaAutor .Videos I { font-size: 2.2em; line-height: 22px; color: #FFFFFF; }
 
 /*FICHA JUGADOR*/
-.FichaJugador { position: absolute; left: 0; /*top: 195px;*/ top: 0; background: #2f2f2f; min-height: 670px; width: 100%; z-index: 1000; overflow: hidden; display: none; height: 100%;}
+.Mask { position: fixed; width: 100%; height: 100%; background: #2f2f2f; z-index: 1000; top: 0; left: 0; display: none;}
+.FichaJugador { position: absolute; left: 0; top: 0; background: #2f2f2f; min-height: 670px; width: 100%; z-index: 1000; overflow: hidden; display: none; height: 100%;}
 .FichaJugador .Liga { background: #1f1f1f; height: 48px;}
 .FichaJugador .Liga H4 { font: 1.4em/17px 'ubunturegular', Arial, Helvetica, sans-serif; text-transform: uppercase; color: #FFFFFF; margin-left: 5.9829%; padding-top: 16px;}
 .FichaJugador .Liga IMG { margin-right: 12px;}
@@ -477,3 +478,13 @@ FOOTER { background: #2c3e4f; min-height: 97px; border-top: 1px solid #dddddd; w
 .Ficha .Next { right: 1.5%;}
 .FichaJugador .Cerrar { position: absolute; top: 10px; right: 10px; font-size: 3em; line-height: 30px; color: #FFFFFF; opacity: .5; cursor: pointer}
 .FichaJugador .Cerrar:hover { opacity: 1;}
+
+/*GRUPOS MUNDIAL*/
+.GruposMundial { background: #ebeced; width: 100%; overflow: hidden; border-bottom: 1px solid #fff; margin-top: -2px;}
+.GruposMundial LI { float: left; width: 12.4%; border-left: 1px solid #fff; text-align: center; padding-top: 10px; padding-bottom: 10px;}
+.GruposMundial LI:last-child { border-right: 1px solid #fff;}
+.GruposMundial A { display: block}
+.GruposMundial A:hover { background: #e7efd7;}
+.GruposMundial H4 { font: 1.3em/15px 'ubuntumedium', Arial, Helvetica, sans-serif; text-transform: uppercase; color: #76a519; margin-bottom: 6px; }
+.GruposMundial FIGURE { display: inline-block; width: 26px; margin-left: 3px; margin-right: 3px;}
+.GruposMundial FIGCAPTION { text-transform: uppercase; color: #000000; font: 1.1em/13px 'ubuntumedium', Arial, Helvetica, sans-serif; margin-top: 4px; }

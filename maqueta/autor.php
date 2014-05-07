@@ -14,7 +14,7 @@
 
 <div class="Wrapper">
 	<div class="Container">
-		<section class="Autor">
+		<section class="FichaAutor">
 			<ul>
 				<li>
 					<figure><img src="images/pics/autor-282x320.jpg" width="282" height="320" alt=""></figure>

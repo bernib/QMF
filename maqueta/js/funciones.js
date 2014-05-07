@@ -74,12 +74,14 @@ $(function(){
 	/*FICHA*/
 	$("#ListadoEquipo A").click(function(e){
 		e.preventDefault();
+		$(".Mask").show();
 		$(".FichaJugador").show();
 		StartFicha();
 	});
 	
 	$(".FichaJugador .Cerrar").click(function(){
 		$(".FichaJugador").hide();
+		$(".Mask").hide();
 	});
 	
 	document.onkeydown = function(evt) {
@@ -87,6 +89,7 @@ $(function(){
 		if (evt.keyCode == 27) {
 
 				$(".FichaJugador").hide();
+				$(".Mask").hide();
 			
 		}
 	};

@@ -1,0 +1,268 @@
+.Estadisticas {
+	background-color:#fff;
+	margin:10px 0 10px 0;
+	font-size:13px;
+	font:1em/1em 'ubunturegular', Arial, Helvetica, sans-serif;
+}
+
+.Estadisticas h3 {
+	height: 20px;
+	background: #2C3E4F;
+	color: #FFF;
+	font:normal 1.6em/20px 'arvobold', Arial, Helvetica, sans-serif;
+	padding: 10px 14px;
+	margin-bottom: 12px;
+	text-transform:uppercase;
+}
+
+.Estadisticas .ligas {
+	line-height:40px;
+	text-transform:uppercase;
+	font-size:13px;
+}
+
+.Estadisticas .ligas .selector{
+	width: 170px;
+	background: #E4EBF1;
+	height: 35px;
+	position: relative;
+	margin-bottom: 10px;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border:0;
+}
+
+.Estadisticas .ligas .selector select {
+	line-height:20px;
+	color:#2c3e4f;
+	padding:8px 20px 8px 20px;
+	background:transparent;
+	width:170px;
+	font:1em/1em 'ubunturegular', Arial, Helvetica, sans-serif;
+	-webkit-appearance:none;
+	overflow:hidden;
+	background:transparent;
+	position:absolute;
+	left:0;
+	top:0;
+	border:0;
+}
+.Estadisticas .ligas .selector .fa {
+	position:absolute;
+	right:10px;
+	top:10px;
+}
+
+.Estadisticas ul.tabs {
+	list-style:none;
+	padding:0;margin:0;
+}
+.Estadisticas ul.tabs li {
+	display: inline-block;
+	line-height:32px;
+	width:32.8%;
+	margin-right: 0.1%;
+	text-align:center;
+	font:12px/1em 'ubuntumedium', Arial, Helvetica, sans-serif;
+}
+.Estadisticas ul.tabs li.last {margin-right:0;}
+.Estadisticas ul li a:link,
+.Estadisticas ul li a:visited,
+.Estadisticas ul li a:active {
+	color:#2c3e4f;
+	display:block;
+	line-height:32px;
+	background:#e4f4d1;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+}
+.Estadisticas ul li a.selected {
+	background:#ff420a;
+	color:#fff;
+}
+
+.Estadisticas a.viewMore {
+	color:#2c3e4f;
+	font-family: 'ubuntubold',Arial,Helvetica,sans-serif;
+	display:block;
+	text-align:center;
+	padding:10px 0;
+	background:#ececec;
+	border-bottom:1px solid #ebebeb;
+}
+.Estadisticas a.viewMore:hover{color:#FF420A;}
+
+.Estadisticas .posiciones {width:100%;}
+.Estadisticas .posiciones .titles {font-size:12px;line-height:30px;display:block;clear:both;color:#2c3e4f;border-bottom:1px solid #dadada;background:#e5e5e5;font-family: 'ubuntubold',Arial,Helvetica,sans-serif;}
+.Estadisticas .posiciones .titles .fa {display:none;background:#ff420a;color:#fff;padding:2px;border-radius: 50%;font-size:10px;}
+.Estadisticas .posiciones .titles .team {width:50%;display: inline-block;color:#2c3e4f;}
+.Estadisticas .posiciones .titles .team span {padding-left:10px;}
+.Estadisticas .posiciones .titles .pts {display: inline-block;width:23%;text-align: center;}
+.Estadisticas .posiciones .titles .pj {display: inline-block;width:25%;text-align: center;}
+.Estadisticas .posiciones .data {
+	display:block;
+	clear:both;
+	line-height:36px;
+	border-bottom:1px solid #ccc;
+}
+
+.Estadisticas .posiciones .data .team {
+	width:50%;
+	display: inline-block;
+	color:#282828;
+	text-transform: uppercase;
+	font:10px/30px 'ubunturegular', Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+
+.Estadisticas .posiciones .data .team img {
+	width:28px;
+	margin:0px 5px 0 5px;
+}
+.Estadisticas .posiciones .data .team a {
+	color:#282828;
+}
+
+
+
+.Estadisticas .posiciones .data .pts {
+	background:#eeeff0;
+	color:#505569;
+	display: inline-block;
+	width:23%;
+	text-align:center;
+}
+.Estadisticas .posiciones .data .pj {
+	display: inline-block;
+	width:25%;
+	text-align:center;
+	color:#505569;
+}
+
+.Estadisticas .goleadores {
+	width:100%;
+	font-family:Arial;
+	font-size:12px;
+}
+
+
+.Estadisticas .goleadores .titles {font-size:12px;line-height:30px;display:block;clear:both;color:#2c3e4f;border-bottom:1px solid #dadada;background:#e5e5e5;font-family: 'ubuntubold',Arial,Helvetica,sans-serif;}
+.Estadisticas .goleadores .titles .nombre {
+	width:75%;
+	margin:0 0 0 10px;
+}
+.Estadisticas .goleadores .data {
+	display:block;
+	clear:both;
+	line-height:36px;
+	border-bottom:1px solid #CCC;
+	text-align: left;
+}
+
+.Estadisticas .goleadores .escudo {
+	width:15%;
+	display:inline-block;
+	height:30px;
+}
+
+.Estadisticas .goleadores .escudo img {
+	width:28px;
+	margin:4px 0 0 5px;
+}
+
+.Estadisticas .goleadores .nombre {
+	width:65%;
+	display:inline-block;
+}
+
+.Estadisticas .goleadores .goles {
+	width:15%;
+	display: inline-block;
+	text-align:center;
+}
+
+.Estadisticas .calendario {
+	width:100%;
+	font-family:Arial;
+	font-size:12px;
+}
+
+.Estadisticas .calendario .noMore {
+	padding:20px;
+	text-align:center;
+	border-bottom:1px solid #3d3d3d;
+}
+
+.Estadisticas .calendario .fechaPartido .fecha {
+	line-height:23px;
+	text-align:center;
+	border-bottom:1px solid #d6d6d6;
+	color:#2c3e4f;
+	background:#e4ebf1;
+	font-family: 'ubuntubold',Arial,sans-serif;
+}
+
+.Estadisticas .calendario .fechaPartido .partido {
+	border-bottom:1px solid #d6d6d6;
+	line-height:35px;
+	padding:4px 0;
+}
+
+.Estadisticas .calendario .fechaPartido .partido .local {
+	float:left;
+	width:45%;
+}
+
+.Estadisticas .calendario .fechaPartido .partido .vs {
+	float:left;
+	width:10%;
+	overflow:hidden;
+	font-size:16px;
+
+}
+
+.Estadisticas .calendario .fechaPartido .partido .visitante {
+	float:left;
+	width:45%;
+}
+
+.Estadisticas .calendario .fechaPartido .partido .logo {
+	width:25%;
+	float:left;
+	text-align:center;
+}
+
+.Estadisticas .calendario .fechaPartido .partido .team {
+	width:75%;
+	float:left;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+
+.Estadisticas .calendario .fechaPartido .partido .logo img {
+	width:25px;
+	float:left;
+	margin:4px 0 0 5px;
+}
+
+.Estadisticas .calendario .fechaPartido .partido .visitante .team {
+	text-align:right;
+}
+
+.Estadisticas .calendario .fechaPartido .partido .visitante .logo {
+	margin:2px 0 0 0;
+}
+.Estadisticas .loader {
+	background:rgba(255,255,255,0.5);
+	width:100%;
+	height:400px;
+	position: relative;
+	text-align: center;
+}
+.Estadisticas .loader img {
+	position: absolute;
+	left:50%;
+	top:50%;
+}

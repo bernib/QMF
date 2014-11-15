@@ -1,0 +1,155 @@
+/*
+Theme Name: Quiero Mas Futbol
+Author: Impremedia
+Author URI: http://impremedia.com/
+Description: Impremedia's soccer site Quieromasfutbol
+Version: 1.0
+Text Domain: qmf
+*/
+
+/* new redesign */
+header {background:#41ad49;border-bottom: 1px solid #fff;}
+header h1 a {background:url(images/layout/qmf-logo.png) no-repeat 0px 0px;width:294px;}
+nav .Bg {background:#00773c;}
+.TopAccesos .Buscador:hover .GoBtn i {color: #3FAC49;}
+.LoMasVisto h3 {background:#00773c;}
+.Estadisticas h3 {background:#00773c;text-align: left;}
+.RecibirNews input[type="submit"],
+.Articulo .Comentarios h4,
+.Newsletter input[type="submit"] {background:#3FAC49;}
+.RecibirNews h4 {color:#3FAC49;}
+.MasFutbol h2 {background:#008242;}
+
+.Articulo .Contenido h2 { font-size: 1.8em; line-height: 24px; color: #3a424e; background: #abd854; display: inline-block; padding: 6px 16px; margin-bottom: 14px; }
+.Articulo .Autor img {margin-right:12px;}
+.Articulo .Autor .Data {padding-left:0;}
+.Articulo img.alignleft {float:left;margin:0 10px 10px 0;}
+.Articulo img.alignright {float:right;margin:0 0 10px 10px;}
+.Articulo .Contenido a {color:#00AEEF;}
+.Articulo .Contenido a:hover {text-decoration: underline;color:#037BA8;}
+
+@media screen and (max-width: 1025px) {
+	.TopAccesos .Buscador .GoBtn i {color: #3FAC49;}
+}
+@media screen and (max-width: 980px) {
+	header h1 a {background:url(images/layout/qmf-logo-medium.svg) no-repeat;}
+}
+@media screen and (max-width: 470px) {
+	header h1 {height:33px;width:36px;position:absolute;left:50%;top:18px;margin:0 0 0 -100px;}
+	header h1 a {background:url(images/layout/qmf-logo-small.svg) no-repeat;height:20px;width:200px;} 
+}
+/* end new redesign */
+
+.WA {background:#64D448;color:#fff;}
+.WA:hover {background:green;}
+.icon-watsapp {background:url(images/layout/whatsapp.svg) no-repeat;width:27px;height:27px;display:inline-block;margin-top:7px;}
+
+.MenuSeccion .Menu {padding:5px 0;background:#E4EBF1;display:none;position:absolute;top:35px;/*background:url(images/layout/menu-arrow.png) no-repeat 2.5% 4px;*/}
+.MenuSeccion .Menu .fa-caret-up {color:#008242;font-size:35px;line-height:5px;margin:0 0 0 9px;}
+.MenuSeccion .Menu ul {display:block;padding-top:0;}
+.MenuSeccion .Menu #menu-main-navigation {/*padding-top:20px;*/ }
+.MenuSeccion .Menu #menu-main-navigation li:first-child {padding-top:0;}
+.MenuSeccion .Menu .search {display: none;}
+.MenuSeccion .Menu .main_tag_navigation {display: none;}
+
+@media screen and (max-width: 650px) {
+	.MenuSeccion .Menu {top:53px;left:0;width:100%;padding:0;}
+	.MenuSeccion .Menu ul.main_tag_navigation {display: block;}
+	.MenuSeccion .Menu .search { display: block; background:#008242; color: #fff;  overflow: hidden;}
+	.MenuSeccion .Menu .search input { float: left;height: 18px;border-radius: 18px;font: 16px/18px 'ubunturegular', Arial, Helvetica, sans-serif;color: #2C3E4F;border: none;padding-top: 8px;margin: 15px 0px 15px 3%;width: 90%;padding-left: 3%;min-height: 34px; }
+	.MenuSeccion .Menu .search .GoBtn { font-size: 1.4em;line-height: 16px;color: #2C3E4F;border: none;background: none;float: left;height: 34px;margin: 20px 0 15px -42px; }
+	.MenuSeccion .Menu .search .GoBtn .fa {font-size: 1.4em; line-height: 16px; color: #2c3e4f;}
+	
+	.MenuSeccion .Menu #menu-main-navigation {padding-top:0px; }
+	.Articulo .SocialBar .GG {display: none;}
+}
+
+@media screen and (max-width: 980px){
+	.MenuSeccion .Menu li.Last {
+		padding: 16px 20px 8px;
+		display: block;
+	}
+}
+
+.ad_1x1{width:1px;height:1px;visibility:hidden;}
+.fb-comments, .fb-comments iframe[style] {width: 100% !important;}
+.pluginSkinLight > div iframe[style] {width:100% !important;}
+.Login input[type="password"] {font:1.8em/20px 'ubuntuitalic', Arial, Helvetica, sans-serif; color: #2c3e4f; height: 20px; width: 257px; border: none; border-radius: 18px; padding: 8px 0px 7px 18px; margin-bottom: 10px; }
+.Articulo .Media {clear:both;}
+#infscr-loading {position:absolute;left:0;bottom:0;width:100%;height:16px;text-align: center;margin:-10px 0;}
+#infscr-loading img {width:16px;height:16px;margin:auto;display: block;}
+
+
+.Ficha {overflow:visible !important;}
+.JugadorWrapper {position: absolute;left:0;top:0;width:100%;display:none;}
+.JugadorWrapper.active {display: block;}
+.FichaJugador .Slider li a {display: block;width:57px;overflow: hidden;}
+
+.GruposMundial a {padding-top:0 !important;padding-bottom:0 !important;}
+.GruposMundial li {padding:10px 0;}
+
+.MainTopBanner {min-height:0px;}
+.TopBanner {min-height:0px;}
+
+.widget_mam {
+	width:100%;
+	border-bottom:1px solid #E7EBEE;
+	padding:10px 0;
+	margin:0;
+}
+.widget_mam:after {
+	clear:both;
+	content:" ";
+}
+.widget_mam .mam{
+	width:47%;
+	display: block;
+	float:left;
+	margin-right:1px;
+	min-height:170px;
+}
+
+.MamSlider {
+	padding:10px 0;
+	border-bottom:1px solid #E7EBEE;
+}
+.MamSlider li {
+	float: left;
+	width: 300px;
+	height: 170px;
+	margin-right:1px;
+	overflow: hidden;
+	position: relative;
+}
+.MamSlider .Wrapper {
+	position: relative;
+}
+.MamSlider .MamPrev{
+	left:2%;
+}
+.MamSlider .MamNext {
+	right:2%;
+}
+.MamSlider .Control {
+	position: absolute;
+	top: 50px;
+	display: block;
+	font-size: 4em;
+	line-height: 40px;
+	color: #94C23A;
+	width:50px;
+	text-align:center;
+}
+
+
+@media screen and (max-width: 360px) {
+	.GruposMundial {display:none !important;}
+	.MamSlider li {width:300px;}
+	.MamSlider .Control {
+		top:150px;
+	}
+	.MamSlider .MamPrev {
+		left:inherit;
+		right:50px;
+	}
+}
